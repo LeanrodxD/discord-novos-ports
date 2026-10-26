@@ -1,10 +1,10 @@
 [
-  "HarbourMasters/Shipwright",
-  "HarbourMasters/2ship2harkinian",
-  "HarbourMasters/Starship",
-  "HarbourMasters/SpaghettiKart",
-  "sm64pc/sm64ex",
-  "Zelda64Recomp/Zelda64Recomp",
-  "N64Recomp/N64Recomp",
-  "hedge-dev/UnleashedRecomp"
+  {"repo": "HarbourMasters/Shipwright", "game": "The Legend of Zelda: Ocarina of Time"},
+  {"repo": "HarbourMasters/2ship2harkinian", "game": "The Legend of Zelda: Majora's Mask"},
+  {"repo": "HarbourMasters/Starship", "game": "Star Fox 64"},
+  {"repo": "HarbourMasters/SpaghettiKart", "game": "Mario Kart 64"},
+  {"repo": "sm64pc/sm64ex", "game": "Super Mario 64"},
+  {"repo": "Zelda64Recomp/Zelda64Recomp", "game": "The Legend of Zelda: Majora's Mask"},
+  {"repo": "N64Recomp/N64Recomp", "game": "Ferramenta: exige a ROM do jogo que você quiser recompilar"},
+  {"repo": "hedge-dev/UnleashedRecomp", "game": "Sonic Unleashed (Xbox 360)"}
 ]

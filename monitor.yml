@@ -20,6 +20,7 @@ jobs:
       - run: python monitor.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK_UPDATES: ${{ secrets.DISCORD_WEBHOOK_UPDATES }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Salvar estado
         run: |

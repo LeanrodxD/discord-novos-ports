@@ -16,6 +16,7 @@ WATCHLIST_FILE = ROOT / "watchlist.json"
 API = "https://api.github.com"
 
 WEBHOOK = os.environ.get("DISCORD_WEBHOOK", "")
+WEBHOOK_UPDATES = os.environ.get("DISCORD_WEBHOOK_UPDATES") or WEBHOOK
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 DRY_RUN = os.environ.get("DRY_RUN") == "1"
 MIN_STARS = int(os.environ.get("MIN_STARS", "10"))
@@ -67,18 +68,37 @@ def detect_platforms(text):
     return found
 
 
-def discord(embed, silent):
-    if silent or DRY_RUN or not WEBHOOK:
+def discord(embed, silent, url=None):
+    url = url or WEBHOOK
+    if silent or DRY_RUN or not url:
         print("[sem envio]", embed.get("title"))
         return
     while True:
-        r = requests.post(WEBHOOK, json={"embeds": [embed]}, timeout=30)
+        r = requests.post(url, json={"embeds": [embed]}, timeout=30)
         if r.status_code == 429:
             time.sleep(float(r.json().get("retry_after", 2)) + 0.5)
             continue
         r.raise_for_status()
         break
     time.sleep(1)
+
+
+def requirements_field(repo, game=None):
+    text = f"**Jogo necessário:** {game}\n" if game else ""
+    text += ("Use o dump do seu próprio jogo original (não distribuímos ROMs/ISOs).\n"
+             f"Como extrair e versões aceitas: https://github.com/{repo}#readme")
+    return {"name": "📀 ROM/ISO necessária", "value": text[:1024]}
+
+
+def load_watchlist():
+    items = json.loads(WATCHLIST_FILE.read_text()) if WATCHLIST_FILE.exists() else []
+    info = {}
+    for it in items:
+        if isinstance(it, str):
+            info[it] = None
+        else:
+            info[it["repo"]] = it.get("game")
+    return info
 
 
 def load_state():
@@ -112,13 +132,14 @@ def discover(state, silent):
                     {"name": "Plataformas", "value": ", ".join(plats) or "?", "inline": True},
                     {"name": "⭐ Stars", "value": str(repo["stargazers_count"]), "inline": True},
                     {"name": "Linguagem", "value": repo.get("language") or "?", "inline": True},
+                    requirements_field(name),
                 ],
                 "footer": {"text": "Descoberta automática"},
             }, silent)
 
 
 def check_releases(state, silent):
-    watch = json.loads(WATCHLIST_FILE.read_text()) if WATCHLIST_FILE.exists() else []
+    watch = load_watchlist()
     for repo in sorted(set(watch) | set(state["tracked"])):
         rels = gh(f"/repos/{repo}/releases", {"per_page": 1})
         if not rels:
@@ -135,8 +156,9 @@ def check_releases(state, silent):
             "url": rel["html_url"],
             "description": body[:500] + ("…" if len(body) > 500 else ""),
             "color": 0xFEE75C if rel.get("prerelease") else 0x5865F2,
+            "fields": [requirements_field(repo, watch.get(repo))],
             "footer": {"text": "Pré-lançamento" if rel.get("prerelease") else "Nova release"},
-        }, silent)
+        }, silent, WEBHOOK_UPDATES)
 
 
 def main():
