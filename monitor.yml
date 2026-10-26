@@ -27,6 +27,7 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           DISCORD_WEBHOOK_UPDATES: ${{ secrets.DISCORD_WEBHOOK_UPDATES }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FORCE_ANNOUNCE: ${{ inputs.force && '1' || '0' }}
       - name: Salvar estado
         run: |
           git config user.name "ports-bot"
