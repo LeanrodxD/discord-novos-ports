@@ -1,3 +1,6 @@
 # discord-novos-ports
 
-Buscas dos GitHub por repositórios criados nos últimos 7 dias. Os termos são “decompilation”, “recompilation”, “pc port” e “native port”. (Switch, PS2, Xbox, Xbox 360, N64, GameCube/Wii, PS1, PSP, 3DS/DS, Dreamcast...).
+"""Monitor de ports nativos para PC (decomps/recomps) -> Discord.
+
+1) DESCOBERTA: busca repositórios NOVOS no GitHub (decompilation, recompilation, pc port...).
+2) ATUALIZAÇÕES: avisa novas releases dos projetos em watchlist.json + os descobertos.
