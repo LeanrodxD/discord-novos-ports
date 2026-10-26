@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 */3 * * *"   # a cada 3 horas
   workflow_dispatch:         # botão "Run workflow"
+    inputs:
+      force:
+        description: "Reenviar a última release de todos os projetos"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
