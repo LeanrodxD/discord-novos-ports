@@ -22,6 +22,7 @@ DRY_RUN = os.environ.get("DRY_RUN") == "1"
 MIN_STARS = int(os.environ.get("MIN_STARS", "10"))
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "7"))
 REQUIRE_PLATFORM = os.environ.get("REQUIRE_PLATFORM", "1") == "1"
+FORCE = os.environ.get("FORCE_ANNOUNCE") == "1"
 
 # Plataformas (edite à vontade). Casamento por palavra inteira, sem diferenciar maiúsculas.
 PLATFORMS = {
@@ -148,7 +149,7 @@ def check_releases(state, silent):
         rid = rel["id"]
         old = state["releases"].get(repo)
         state["releases"][repo] = rid
-        if old is None or old == rid:   # repo novo na lista: só registra, não avisa
+        if not FORCE and (old is None or old == rid):   # repo novo na lista: só registra, não avisa
             continue
         body = (rel.get("body") or "").strip()
         discord({
