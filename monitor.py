@@ -134,7 +134,7 @@ def discover(state, silent):
                     {"name": "Linguagem", "value": repo.get("language") or "?", "inline": True},
                     requirements_field(name),
                 ],
-                "footer": {"text": "Descoberta automática"},
+                "footer": {"text": "Comunidade Ports PC • Projeto novo", "icon_url": "https://img.icons8.com/?size=100&id=9fp9k4lPT8us&format=png&color=000000"},
             }, silent)
 
 
@@ -157,7 +157,7 @@ def check_releases(state, silent):
             "description": body[:500] + ("…" if len(body) > 500 else ""),
             "color": 0xFEE75C if rel.get("prerelease") else 0x5865F2,
             "fields": [requirements_field(repo, watch.get(repo))],
-            "footer": {"text": "Pré-lançamento" if rel.get("prerelease") else "Nova release"},
+            "footer": {"text": "Pré-lançamento" if rel.get("prerelease") else "Nova Versao", "icon_url": "https://img.icons8.com/?size=100&id=5tH5sHqq0t2q&format=png&color=000000"},
         }, silent, WEBHOOK_UPDATES)
 
 
