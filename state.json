@@ -30,7 +30,11 @@
     "mercurialw0rld/thebeatlesrockband-pcport",
     "abilliontokens/bustinout-recomp",
     "contatg/Def-Jam-Android-Native-Port",
-    "VasilkovND/gears2-nx"
+    "VasilkovND/gears2-nx",
+    "Flippage/gears-of-war-3-recomp",
+    "jillsandwich1998/reGH2",
+    "ReRevvedRecomp/rerevved",
+    "GranasSabre/Grandia3-PC"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -94,11 +98,15 @@
     "mercurialw0rld/thebeatlesrockband-pcport",
     "abilliontokens/bustinout-recomp",
     "contatg/Def-Jam-Android-Native-Port",
-    "VasilkovND/gears2-nx"
+    "VasilkovND/gears2-nx",
+    "Flippage/gears-of-war-3-recomp",
+    "jillsandwich1998/reGH2",
+    "ReRevvedRecomp/rerevved",
+    "GranasSabre/Grandia3-PC"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
-    "Auremana666/Naruto-The-Broken-Bond-PC-Port": 422178276,
+    "Auremana666/Naruto-The-Broken-Bond-PC-Port": 424840056,
     "ChunchunQ/fifa09-recomp": 421369677,
     "Clergyman0013/arizona-vamp-recomp": 423117616,
     "HarbourMasters/2ship2harkinian": 376134681,
@@ -132,6 +140,10 @@
     "saulob/marvel-ultimate-alliance-bundle-recompiled": 423773440,
     "thatcalikid760/TTT2-Recomp": 423657005,
     "thebardockgames/Precursor": 423097371,
-    "tuancapoo/mgr-nx-deko": 422019235
+    "tuancapoo/mgr-nx-deko": 422019235,
+    "Flippage/gears-of-war-3-recomp": 423706618,
+    "GranasSabre/Grandia3-PC": 424741223,
+    "ReRevvedRecomp/rerevved": 423513672,
+    "jillsandwich1998/reGH2": 419812369
   }
 }
