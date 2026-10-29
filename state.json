@@ -41,7 +41,8 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
     "Shagg88/COGBox",
     "projectedan/McRae05-XBE-Recomp",
-    "Thorhax/mk9-nx"
+    "Thorhax/mk9-nx",
+    "exoteric33/ps2-native-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -116,7 +117,8 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
     "Shagg88/COGBox",
     "projectedan/McRae05-XBE-Recomp",
-    "Thorhax/mk9-nx"
+    "Thorhax/mk9-nx",
+    "exoteric33/ps2-native-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -129,7 +131,7 @@
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
     "Mango77x/MHForever": 427642419,
-    "MysteriousAeon/rayman3-hd-recompiled": 424918572,
+    "MysteriousAeon/rayman3-hd-recompiled": 427782278,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 427393555,
     "Nycolazs/EoWRecomp": 419400676,
@@ -164,7 +166,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 427025859,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 427328252,
-    "Thorhax/mk9-nx": 426345425
+    "Odrannnn/MetroidPrime2Port": 427705512,
+    "Thorhax/mk9-nx": 427690254
   }
 }
