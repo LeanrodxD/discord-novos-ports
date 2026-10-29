@@ -42,7 +42,9 @@
     "Shagg88/COGBox",
     "projectedan/McRae05-XBE-Recomp",
     "Thorhax/mk9-nx",
-    "exoteric33/ps2-native-recomp"
+    "exoteric33/ps2-native-recomp",
+    "matty45/Crackdown2-Decomp",
+    "josiahg2502-glitch/MonopolyRecompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -118,7 +120,9 @@
     "Shagg88/COGBox",
     "projectedan/McRae05-XBE-Recomp",
     "Thorhax/mk9-nx",
-    "exoteric33/ps2-native-recomp"
+    "exoteric33/ps2-native-recomp",
+    "matty45/Crackdown2-Decomp",
+    "josiahg2502-glitch/MonopolyRecompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -167,6 +171,7 @@
     "Shagg88/COGBox": 427025859,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 427705512,
-    "Thorhax/mk9-nx": 427690254
+    "Thorhax/mk9-nx": 427690254,
+    "josiahg2502-glitch/MonopolyRecompiled": 427795102
   }
 }
