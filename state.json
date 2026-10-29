@@ -40,7 +40,8 @@
     "Odrannnn/MetroidPrime2Port",
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
     "Shagg88/COGBox",
-    "projectedan/McRae05-XBE-Recomp"
+    "projectedan/McRae05-XBE-Recomp",
+    "Thorhax/mk9-nx"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -114,7 +115,8 @@
     "Odrannnn/MetroidPrime2Port",
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp",
     "Shagg88/COGBox",
-    "projectedan/McRae05-XBE-Recomp"
+    "projectedan/McRae05-XBE-Recomp",
+    "Thorhax/mk9-nx"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -126,7 +128,7 @@
     "HarbourMasters/SpaghettiKart": 290115373,
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
-    "Mango77x/MHForever": 427004116,
+    "Mango77x/MHForever": 427241686,
     "MysteriousAeon/rayman3-hd-recompiled": 424918572,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 426150524,
@@ -153,7 +155,7 @@
     "thatcalikid760/TTT2-Recomp": 423657005,
     "thebardockgames/Precursor": 423097371,
     "tuancapoo/mgr-nx-deko": 422019235,
-    "Flippage/gears-of-war-3-recomp": 426201486,
+    "Flippage/gears-of-war-3-recomp": 427217953,
     "GranasSabre/Grandia3-PC": 426380251,
     "ReRevvedRecomp/rerevved": 427000699,
     "jillsandwich1998/reGH2": 424931968,
@@ -162,6 +164,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 427025859,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 427207188
+    "Odrannnn/MetroidPrime2Port": 427328252,
+    "Thorhax/mk9-nx": 426345425
   }
 }
