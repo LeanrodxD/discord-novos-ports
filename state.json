@@ -50,7 +50,8 @@
     "ElKev118/ghostrecon2-recomp",
     "rashevskyv/conker-lr-recomp",
     "danielnuld/smg-ps2",
-    "SpeedBreakerProject/speedbreaker-carbon"
+    "SpeedBreakerProject/speedbreaker-carbon",
+    "mamcjr/TOTKRecompAndroid"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -134,7 +135,8 @@
     "ElKev118/ghostrecon2-recomp",
     "rashevskyv/conker-lr-recomp",
     "danielnuld/smg-ps2",
-    "SpeedBreakerProject/speedbreaker-carbon"
+    "SpeedBreakerProject/speedbreaker-carbon",
+    "mamcjr/TOTKRecompAndroid"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -149,7 +151,7 @@
     "Mango77x/MHForever": 428036586,
     "MysteriousAeon/rayman3-hd-recompiled": 427782278,
     "N64Recomp/N64Recomp": 216363548,
-    "NoRain211/doa2u-re": 428548129,
+    "NoRain211/doa2u-re": 428685159,
     "Nycolazs/EoWRecomp": 419400676,
     "VasilkovND/gears2-nx": 421545218,
     "Zelda64Recomp/Zelda64Recomp": 242740890,
@@ -189,6 +191,7 @@
     "ElKev118/ghostrecon2-recomp": 423849936,
     "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo": 424883985,
     "rashevskyv/conker-lr-recomp": 427174900,
-    "SpeedBreakerProject/speedbreaker-carbon": 428068813
+    "SpeedBreakerProject/speedbreaker-carbon": 428068813,
+    "mamcjr/TOTKRecompAndroid": 427835411
   }
 }
