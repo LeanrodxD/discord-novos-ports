@@ -45,7 +45,10 @@
     "exoteric33/ps2-native-recomp",
     "matty45/Crackdown2-Decomp",
     "josiahg2502-glitch/MonopolyRecompiled",
-    "Mwrnk/desktop-melee"
+    "Mwrnk/desktop-melee",
+    "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo",
+    "ElKev118/ghostrecon2-recomp",
+    "rashevskyv/conker-lr-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -124,11 +127,14 @@
     "exoteric33/ps2-native-recomp",
     "matty45/Crackdown2-Decomp",
     "josiahg2502-glitch/MonopolyRecompiled",
-    "Mwrnk/desktop-melee"
+    "Mwrnk/desktop-melee",
+    "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo",
+    "ElKev118/ghostrecon2-recomp",
+    "rashevskyv/conker-lr-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
-    "Auremana666/Naruto-The-Broken-Bond-PC-Port": 424840056,
+    "Auremana666/Naruto-The-Broken-Bond-PC-Port": 428526655,
     "ChunchunQ/fifa09-recomp": 421369677,
     "Clergyman0013/arizona-vamp-recomp": 423117616,
     "HarbourMasters/2ship2harkinian": 376134681,
@@ -139,7 +145,7 @@
     "Mango77x/MHForever": 428036586,
     "MysteriousAeon/rayman3-hd-recompiled": 427782278,
     "N64Recomp/N64Recomp": 216363548,
-    "NoRain211/doa2u-re": 427393555,
+    "NoRain211/doa2u-re": 428436058,
     "Nycolazs/EoWRecomp": 419400676,
     "VasilkovND/gears2-nx": 421545218,
     "Zelda64Recomp/Zelda64Recomp": 242740890,
@@ -160,10 +166,10 @@
     "ryderclanky/BotW-Native": 423518710,
     "santiagovalencia109/Wario-Land-Shake-It-Native-PC": 425071211,
     "saulob/marvel-ultimate-alliance-bundle-recompiled": 427437791,
-    "thatcalikid760/TTT2-Recomp": 427443759,
+    "thatcalikid760/TTT2-Recomp": 428494253,
     "thebardockgames/Precursor": 423097371,
     "tuancapoo/mgr-nx-deko": 422019235,
-    "Flippage/gears-of-war-3-recomp": 427217953,
+    "Flippage/gears-of-war-3-recomp": 428502983,
     "GranasSabre/Grandia3-PC": 426380251,
     "ReRevvedRecomp/rerevved": 427617340,
     "jillsandwich1998/reGH2": 424931968,
@@ -172,9 +178,12 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 427025859,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 428257805,
+    "Odrannnn/MetroidPrime2Port": 428496283,
     "Thorhax/mk9-nx": 427690254,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
-    "Mwrnk/desktop-melee": 427253106
+    "Mwrnk/desktop-melee": 427253106,
+    "ElKev118/ghostrecon2-recomp": 423849936,
+    "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo": 424883985,
+    "rashevskyv/conker-lr-recomp": 427174900
   }
 }
