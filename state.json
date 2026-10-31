@@ -52,7 +52,9 @@
     "danielnuld/smg-ps2",
     "SpeedBreakerProject/speedbreaker-carbon",
     "mamcjr/TOTKRecompAndroid",
-    "badcompany94-rcmp/project-tandem"
+    "badcompany94-rcmp/project-tandem",
+    "Vnnc1/gow-native-pc",
+    "TekRantGaming/angry-birds-re-hatched-collection"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -138,7 +140,9 @@
     "danielnuld/smg-ps2",
     "SpeedBreakerProject/speedbreaker-carbon",
     "mamcjr/TOTKRecompAndroid",
-    "badcompany94-rcmp/project-tandem"
+    "badcompany94-rcmp/project-tandem",
+    "Vnnc1/gow-native-pc",
+    "TekRantGaming/angry-birds-re-hatched-collection"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -150,7 +154,7 @@
     "HarbourMasters/SpaghettiKart": 290115373,
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
-    "Mango77x/MHForever": 429406216,
+    "Mango77x/MHForever": 429575804,
     "MysteriousAeon/rayman3-hd-recompiled": 427782278,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 428685159,
@@ -186,7 +190,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 428964528,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 428959783,
+    "Odrannnn/MetroidPrime2Port": 429560777,
     "Thorhax/mk9-nx": 427690254,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 427253106,
@@ -195,6 +199,8 @@
     "rashevskyv/conker-lr-recomp": 429484787,
     "SpeedBreakerProject/speedbreaker-carbon": 428068813,
     "mamcjr/TOTKRecompAndroid": 427835411,
-    "badcompany94-rcmp/project-tandem": 422152351
+    "badcompany94-rcmp/project-tandem": 429573794,
+    "TekRantGaming/angry-birds-re-hatched-collection": 428243812,
+    "Vnnc1/gow-native-pc": 429616361
   }
 }
