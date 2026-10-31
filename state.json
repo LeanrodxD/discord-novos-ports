@@ -54,7 +54,9 @@
     "mamcjr/TOTKRecompAndroid",
     "badcompany94-rcmp/project-tandem",
     "Vnnc1/gow-native-pc",
-    "TekRantGaming/angry-birds-re-hatched-collection"
+    "TekRantGaming/angry-birds-re-hatched-collection",
+    "danielalves96/gow-pc-port",
+    "TekRantGaming/cartoon-network-racing-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -142,7 +144,9 @@
     "mamcjr/TOTKRecompAndroid",
     "badcompany94-rcmp/project-tandem",
     "Vnnc1/gow-native-pc",
-    "TekRantGaming/angry-birds-re-hatched-collection"
+    "TekRantGaming/angry-birds-re-hatched-collection",
+    "danielalves96/gow-pc-port",
+    "TekRantGaming/cartoon-network-racing-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -169,7 +173,7 @@
     "enrique363/voldorium": 428009295,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
-    "josiahg2502-glitch/BrawlRecompiled": 429398889,
+    "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 427358986,
     "mamcjr/BOTWRecompAndroid": 429412486,
@@ -201,6 +205,8 @@
     "mamcjr/TOTKRecompAndroid": 427835411,
     "badcompany94-rcmp/project-tandem": 429573794,
     "TekRantGaming/angry-birds-re-hatched-collection": 428243812,
-    "Vnnc1/gow-native-pc": 429665374
+    "Vnnc1/gow-native-pc": 429810981,
+    "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
+    "danielalves96/gow-pc-port": 429647109
   }
 }
