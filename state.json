@@ -57,7 +57,9 @@
     "TekRantGaming/angry-birds-re-hatched-collection",
     "danielalves96/gow-pc-port",
     "TekRantGaming/cartoon-network-racing-recompiled",
-    "thatcalikid760/SCDA360pcport"
+    "thatcalikid760/SCDA360pcport",
+    "n64hub/mario-party-recomp",
+    "hardsilinder/FableDroid"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -148,7 +150,9 @@
     "TekRantGaming/angry-birds-re-hatched-collection",
     "danielalves96/gow-pc-port",
     "TekRantGaming/cartoon-network-racing-recompiled",
-    "thatcalikid760/SCDA360pcport"
+    "thatcalikid760/SCDA360pcport",
+    "n64hub/mario-party-recomp",
+    "hardsilinder/FableDroid"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -161,7 +165,7 @@
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
     "Mango77x/MHForever": 429575804,
-    "MysteriousAeon/rayman3-hd-recompiled": 427782278,
+    "MysteriousAeon/rayman3-hd-recompiled": 430236888,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 430172345,
     "Nycolazs/EoWRecomp": 419400676,
@@ -178,7 +182,7 @@
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 427358986,
-    "mamcjr/BOTWRecompAndroid": 430190935,
+    "mamcjr/BOTWRecompAndroid": 430208382,
     "mercurialw0rld/thebeatlesrockband-pcport": 422551110,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
@@ -194,9 +198,9 @@
     "Pallypots/ProjectOogie": 428551499,
     "victor-takai/rogue-galaxy-recomp": 425876407,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
-    "Shagg88/COGBox": 429727014,
+    "Shagg88/COGBox": 430258580,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 429560777,
+    "Odrannnn/MetroidPrime2Port": 430256497,
     "Thorhax/mk9-nx": 427690254,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 427253106,
@@ -210,6 +214,8 @@
     "Vnnc1/gow-native-pc": 429810981,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
     "danielalves96/gow-pc-port": 429647109,
-    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374
+    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374,
+    "hardsilinder/FableDroid": 428621045,
+    "n64hub/mario-party-recomp": 430032930
   }
 }
