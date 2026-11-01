@@ -59,7 +59,8 @@
     "TekRantGaming/cartoon-network-racing-recompiled",
     "thatcalikid760/SCDA360pcport",
     "n64hub/mario-party-recomp",
-    "hardsilinder/FableDroid"
+    "hardsilinder/FableDroid",
+    "giacomozama/live-and-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -152,7 +153,8 @@
     "TekRantGaming/cartoon-network-racing-recompiled",
     "thatcalikid760/SCDA360pcport",
     "n64hub/mario-party-recomp",
-    "hardsilinder/FableDroid"
+    "hardsilinder/FableDroid",
+    "giacomozama/live-and-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -209,13 +211,14 @@
     "rashevskyv/conker-lr-recomp": 429894623,
     "SpeedBreakerProject/speedbreaker-carbon": 428068813,
     "mamcjr/TOTKRecompAndroid": 427835411,
-    "badcompany94-rcmp/project-tandem": 430152273,
+    "badcompany94-rcmp/project-tandem": 430334315,
     "TekRantGaming/angry-birds-re-hatched-collection": 428243812,
-    "Vnnc1/gow-native-pc": 429810981,
+    "Vnnc1/gow-native-pc": 430320008,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
     "danielalves96/gow-pc-port": 429647109,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374,
     "hardsilinder/FableDroid": 428621045,
-    "n64hub/mario-party-recomp": 430032930
+    "n64hub/mario-party-recomp": 430032930,
+    "giacomozama/live-and-recompiled": 427303246
   }
 }
