@@ -62,7 +62,8 @@
     "hardsilinder/FableDroid",
     "giacomozama/live-and-recompiled",
     "ASarafanov/fracturerecomp",
-    "TekRantGaming/whopping-recompilation-collection"
+    "TekRantGaming/whopping-recompilation-collection",
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -158,7 +159,8 @@
     "hardsilinder/FableDroid",
     "giacomozama/live-and-recompiled",
     "ASarafanov/fracturerecomp",
-    "TekRantGaming/whopping-recompilation-collection"
+    "TekRantGaming/whopping-recompilation-collection",
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -225,6 +227,7 @@
     "n64hub/mario-party-recomp": 430032930,
     "giacomozama/live-and-recompiled": 427303246,
     "ASarafanov/fracturerecomp": 428409247,
-    "TekRantGaming/whopping-recompilation-collection": 430232307
+    "TekRantGaming/whopping-recompilation-collection": 430232307,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 430464999
   }
 }
