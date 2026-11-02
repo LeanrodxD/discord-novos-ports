@@ -68,7 +68,9 @@
     "N900x4/HauntingGround-Recomp-Project",
     "n64hub/mario-party-2-recomp",
     "n64hub/mario-party-3-recomp",
-    "almost-drowned-rat/THPS2X-Recompiled"
+    "almost-drowned-rat/THPS2X-Recompiled",
+    "Mabec-games/Conker-Recomped-and-Reloaded",
+    "TekRantGaming/muppet-racemania-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -170,7 +172,9 @@
     "N900x4/HauntingGround-Recomp-Project",
     "n64hub/mario-party-2-recomp",
     "n64hub/mario-party-3-recomp",
-    "almost-drowned-rat/THPS2X-Recompiled"
+    "almost-drowned-rat/THPS2X-Recompiled",
+    "Mabec-games/Conker-Recomped-and-Reloaded",
+    "TekRantGaming/muppet-racemania-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -218,7 +222,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 430916197,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 430916302,
+    "Odrannnn/MetroidPrime2Port": 431140388,
     "Thorhax/mk9-nx": 427690254,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 427253106,
@@ -231,18 +235,20 @@
     "TekRantGaming/angry-birds-re-hatched-collection": 428243812,
     "Vnnc1/gow-native-pc": 430320008,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
-    "danielalves96/gow-pc-port": 431045171,
+    "danielalves96/gow-pc-port": 431118049,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374,
     "hardsilinder/FableDroid": 428621045,
     "n64hub/mario-party-recomp": 430492548,
     "giacomozama/live-and-recompiled": 427303246,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 431012726,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 431063677,
     "daniel-madrid-07/weeping-of-the-empire": 430889441,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 430204339,
     "n64hub/mario-party-2-recomp": 430493253,
-    "n64hub/mario-party-3-recomp": 430852163
+    "n64hub/mario-party-3-recomp": 430852163,
+    "Mabec-games/Conker-Recomped-and-Reloaded": 430410551,
+    "TekRantGaming/muppet-racemania-recompiled": 429267956
   }
 }
