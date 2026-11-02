@@ -71,7 +71,9 @@
     "almost-drowned-rat/THPS2X-Recompiled",
     "Mabec-games/Conker-Recomped-and-Reloaded",
     "TekRantGaming/muppet-racemania-recompiled",
-    "Adolini1715/Concrete-Jungle-PC"
+    "Adolini1715/Concrete-Jungle-PC",
+    "Lucas-blip-png/dkb-pc-recomp",
+    "shaneomac1337/Top-Spin-4-Recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -176,7 +178,9 @@
     "almost-drowned-rat/THPS2X-Recompiled",
     "Mabec-games/Conker-Recomped-and-Reloaded",
     "TekRantGaming/muppet-racemania-recompiled",
-    "Adolini1715/Concrete-Jungle-PC"
+    "Adolini1715/Concrete-Jungle-PC",
+    "Lucas-blip-png/dkb-pc-recomp",
+    "shaneomac1337/Top-Spin-4-Recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -253,6 +257,7 @@
     "Mabec-games/Conker-Recomped-and-Reloaded": 430410551,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
-    "thatcalikid760/SCDA360pcport": 431163524
+    "thatcalikid760/SCDA360pcport": 431420054,
+    "shaneomac1337/Top-Spin-4-Recomp": 430923336
   }
 }
