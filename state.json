@@ -73,7 +73,9 @@
     "TekRantGaming/muppet-racemania-recompiled",
     "Adolini1715/Concrete-Jungle-PC",
     "Lucas-blip-png/dkb-pc-recomp",
-    "shaneomac1337/Top-Spin-4-Recomp"
+    "shaneomac1337/Top-Spin-4-Recomp",
+    "nekomancer01/DarkSoulsPS2",
+    "KamiTK2/openNG2"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -180,7 +182,9 @@
     "TekRantGaming/muppet-racemania-recompiled",
     "Adolini1715/Concrete-Jungle-PC",
     "Lucas-blip-png/dkb-pc-recomp",
-    "shaneomac1337/Top-Spin-4-Recomp"
+    "shaneomac1337/Top-Spin-4-Recomp",
+    "nekomancer01/DarkSoulsPS2",
+    "KamiTK2/openNG2"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -226,7 +230,7 @@
     "Pallypots/ProjectOogie": 430760495,
     "victor-takai/rogue-galaxy-recomp": 425876407,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
-    "Shagg88/COGBox": 431203210,
+    "Shagg88/COGBox": 431455924,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 431140388,
     "Thorhax/mk9-nx": 427690254,
@@ -249,15 +253,16 @@
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
     "Fuuzetsu/tenchu-shinobi-gaisen-pc": 431253758,
-    "daniel-madrid-07/weeping-of-the-empire": 430889441,
+    "daniel-madrid-07/weeping-of-the-empire": 431510549,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 430204339,
     "n64hub/mario-party-2-recomp": 431262923,
     "n64hub/mario-party-3-recomp": 431232637,
-    "Mabec-games/Conker-Recomped-and-Reloaded": 430410551,
+    "Mabec-games/Conker-Recomped-and-Reloaded": 431504815,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
-    "thatcalikid760/SCDA360pcport": 431420054,
-    "shaneomac1337/Top-Spin-4-Recomp": 430923336
+    "thatcalikid760/SCDA360pcport": 431476880,
+    "shaneomac1337/Top-Spin-4-Recomp": 430923336,
+    "KamiTK2/openNG2": 431161890
   }
 }
