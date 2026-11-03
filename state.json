@@ -79,7 +79,9 @@
     "thefixinhixon/woohoo-flight-school",
     "reshaped/sonic-adventure",
     "andrewnakas/gtav-recomp",
-    "drakolordx7/pokopia-recomp"
+    "drakolordx7/pokopia-recomp",
+    "hk21x/007-agentunderfire-recomp",
+    "RetroPulse03/WinBackRecomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -192,7 +194,9 @@
     "thefixinhixon/woohoo-flight-school",
     "reshaped/sonic-adventure",
     "andrewnakas/gtav-recomp",
-    "drakolordx7/pokopia-recomp"
+    "drakolordx7/pokopia-recomp",
+    "hk21x/007-agentunderfire-recomp",
+    "RetroPulse03/WinBackRecomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -238,7 +242,7 @@
     "Pallypots/ProjectOogie": 431671207,
     "victor-takai/rogue-galaxy-recomp": 425876407,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
-    "Shagg88/COGBox": 432091154,
+    "Shagg88/COGBox": 432208122,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 432023557,
     "Thorhax/mk9-nx": 427690254,
@@ -260,8 +264,8 @@
     "giacomozama/live-and-recompiled": 432056631,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 431253758,
-    "daniel-madrid-07/weeping-of-the-empire": 432097278,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 432129500,
+    "daniel-madrid-07/weeping-of-the-empire": 432213388,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 430204339,
     "n64hub/mario-party-2-recomp": 431262923,
@@ -274,6 +278,8 @@
     "KamiTK2/openNG2": 431958120,
     "thefixinhixon/woohoo-flight-school": 431006223,
     "andrewnakas/gtav-recomp": 431125088,
-    "drakolordx7/pokopia-recomp": 431756396
+    "drakolordx7/pokopia-recomp": 431756396,
+    "RetroPulse03/WinBackRecomp": 431689631,
+    "hk21x/007-agentunderfire-recomp": 431995976
   }
 }
