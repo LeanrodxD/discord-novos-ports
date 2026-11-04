@@ -83,7 +83,10 @@
     "hk21x/007-agentunderfire-recomp",
     "RetroPulse03/WinBackRecomp",
     "dvilelaf/battlestadium-don",
-    "tmcleroy/soulcalibur2-recomp"
+    "tmcleroy/soulcalibur2-recomp",
+    "Llamapixels/TenchuRFDRecomp",
+    "minimalice92/bloodwake-recomp",
+    "Peterson047/BLACK-XBEMultiplayer"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -200,7 +203,10 @@
     "hk21x/007-agentunderfire-recomp",
     "RetroPulse03/WinBackRecomp",
     "dvilelaf/battlestadium-don",
-    "tmcleroy/soulcalibur2-recomp"
+    "tmcleroy/soulcalibur2-recomp",
+    "Llamapixels/TenchuRFDRecomp",
+    "minimalice92/bloodwake-recomp",
+    "Peterson047/BLACK-XBEMultiplayer"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -257,29 +263,29 @@
     "rashevskyv/conker-lr-recomp": 432468805,
     "SpeedBreakerProject/speedbreaker-carbon": 430942177,
     "mamcjr/TOTKRecompAndroid": 430980578,
-    "badcompany94-rcmp/project-tandem": 431964536,
+    "badcompany94-rcmp/project-tandem": 433329999,
     "TekRantGaming/angry-birds-re-hatched-collection": 428243812,
     "Vnnc1/gow-native-pc": 432100204,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
     "danielalves96/gow-pc-port": 432787096,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 432589777,
+    "n64hub/mario-party-recomp": 433282152,
     "giacomozama/live-and-recompiled": 432056631,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 432129500,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 433329198,
     "daniel-madrid-07/weeping-of-the-empire": 433066691,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 430204339,
-    "n64hub/mario-party-2-recomp": 432596511,
-    "n64hub/mario-party-3-recomp": 432603958,
+    "n64hub/mario-party-2-recomp": 433284328,
+    "n64hub/mario-party-3-recomp": 433294522,
     "Mabec-games/Conker-Recomped-and-Reloaded": 432449780,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
     "thatcalikid760/SCDA360pcport": 431982392,
     "shaneomac1337/Top-Spin-4-Recomp": 430923336,
-    "KamiTK2/openNG2": 431958120,
+    "KamiTK2/openNG2": 433267519,
     "thefixinhixon/woohoo-flight-school": 431006223,
     "andrewnakas/gtav-recomp": 431125088,
     "drakolordx7/pokopia-recomp": 431756396,
@@ -287,6 +293,9 @@
     "hk21x/007-agentunderfire-recomp": 432554539,
     "dvilelaf/battlestadium-don": 431497869,
     "tmcleroy/soulcalibur2-recomp": 433149938,
-    "exoteric33/ps2-native-recomp": 432988669
+    "exoteric33/ps2-native-recomp": 432988669,
+    "Llamapixels/TenchuRFDRecomp": 430764878,
+    "Peterson047/BLACK-XBEMultiplayer": 433121445,
+    "minimalice92/bloodwake-recomp": 433367481
   }
 }
