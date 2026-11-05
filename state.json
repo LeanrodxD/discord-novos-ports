@@ -95,7 +95,9 @@
     "TekRantGaming/incredible-hulk-recompiled",
     "drakolordx7/switch2-recomp",
     "CoastRedWood/splashdown",
-    "dennisabalo18-bot/red-dead-revolver-pc"
+    "dennisabalo18-bot/red-dead-revolver-pc",
+    "gamboozino/ng2recomp",
+    "MildRain479/PokePark-Wiicompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -224,7 +226,9 @@
     "TekRantGaming/incredible-hulk-recompiled",
     "drakolordx7/switch2-recomp",
     "CoastRedWood/splashdown",
-    "dennisabalo18-bot/red-dead-revolver-pc"
+    "dennisabalo18-bot/red-dead-revolver-pc",
+    "gamboozino/ng2recomp",
+    "MildRain479/PokePark-Wiicompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -288,7 +292,7 @@
     "danielalves96/gow-pc-port": 435328967,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 434490239,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 433481729,
+    "n64hub/mario-party-recomp": 435425906,
     "giacomozama/live-and-recompiled": 432056631,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
@@ -296,8 +300,8 @@
     "daniel-madrid-07/weeping-of-the-empire": 434638973,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 435133958,
-    "n64hub/mario-party-2-recomp": 433488353,
-    "n64hub/mario-party-3-recomp": 433495669,
+    "n64hub/mario-party-2-recomp": 435467641,
+    "n64hub/mario-party-3-recomp": 435468685,
     "Mabec-games/Conker-Recomped-and-Reloaded": 435050267,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
@@ -322,6 +326,8 @@
     "TekRantGaming/incredible-hulk-recompiled": 431717185,
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
-    "dennisabalo18-bot/red-dead-revolver-pc": 435088587
+    "dennisabalo18-bot/red-dead-revolver-pc": 435088587,
+    "MildRain479/PokePark-Wiicompiled": 433428033,
+    "gamboozino/ng2recomp": 435571567
   }
 }
