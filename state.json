@@ -86,7 +86,13 @@
     "tmcleroy/soulcalibur2-recomp",
     "Llamapixels/TenchuRFDRecomp",
     "minimalice92/bloodwake-recomp",
-    "Peterson047/BLACK-XBEMultiplayer"
+    "Peterson047/BLACK-XBEMultiplayer",
+    "UwUCammie/Burn3",
+    "ClydeyEXE/uc2-recomp",
+    "StevensND/lm-nx",
+    "AlvaroEPena/bo2-360-nx",
+    "ChaosTheory1075/mp3-ps5",
+    "TekRantGaming/incredible-hulk-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -206,7 +212,13 @@
     "tmcleroy/soulcalibur2-recomp",
     "Llamapixels/TenchuRFDRecomp",
     "minimalice92/bloodwake-recomp",
-    "Peterson047/BLACK-XBEMultiplayer"
+    "Peterson047/BLACK-XBEMultiplayer",
+    "UwUCammie/Burn3",
+    "ClydeyEXE/uc2-recomp",
+    "StevensND/lm-nx",
+    "AlvaroEPena/bo2-360-nx",
+    "ChaosTheory1075/mp3-ps5",
+    "TekRantGaming/incredible-hulk-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -237,7 +249,7 @@
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 433524864,
     "mamcjr/BOTWRecompAndroid": 434002004,
-    "mercurialw0rld/thebeatlesrockband-pcport": 422551110,
+    "mercurialw0rld/thebeatlesrockband-pcport": 434603919,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
     "santiagovalencia109/Wario-Land-Shake-It-Native-PC": 432291552,
@@ -249,7 +261,7 @@
     "GranasSabre/Grandia3-PC": 431975018,
     "ReRevvedRecomp/rerevved": 432955526,
     "jillsandwich1998/reGH2": 424931968,
-    "Pallypots/ProjectOogie": 434372546,
+    "Pallypots/ProjectOogie": 434530471,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 426166056,
     "Shagg88/COGBox": 434285872,
@@ -268,7 +280,7 @@
     "Vnnc1/gow-native-pc": 432100204,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
     "danielalves96/gow-pc-port": 434257882,
-    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 429991374,
+    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 434490239,
     "hardsilinder/FableDroid": 431727270,
     "n64hub/mario-party-recomp": 433481729,
     "giacomozama/live-and-recompiled": 432056631,
@@ -296,6 +308,12 @@
     "exoteric33/ps2-native-recomp": 432988669,
     "Llamapixels/TenchuRFDRecomp": 433771876,
     "Peterson047/BLACK-XBEMultiplayer": 434018660,
-    "minimalice92/bloodwake-recomp": 433367481
+    "minimalice92/bloodwake-recomp": 433367481,
+    "AlvaroEPena/bo2-360-nx": 433392192,
+    "ChaosTheory1075/mp3-ps5": 430414421,
+    "ClydeyEXE/uc2-recomp": 433015495,
+    "StevensND/lm-nx": 430716433,
+    "TekRantGaming/incredible-hulk-recompiled": 431717185,
+    "UwUCammie/Burn3": 432848614
   }
 }
