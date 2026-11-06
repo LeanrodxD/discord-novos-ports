@@ -97,7 +97,8 @@
     "CoastRedWood/splashdown",
     "dennisabalo18-bot/red-dead-revolver-pc",
     "gamboozino/ng2recomp",
-    "MildRain479/PokePark-Wiicompiled"
+    "MildRain479/PokePark-Wiicompiled",
+    "Chiuauaa/oot-pc-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -228,7 +229,8 @@
     "CoastRedWood/splashdown",
     "dennisabalo18-bot/red-dead-revolver-pc",
     "gamboozino/ng2recomp",
-    "MildRain479/PokePark-Wiicompiled"
+    "MildRain479/PokePark-Wiicompiled",
+    "Chiuauaa/oot-pc-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -243,7 +245,7 @@
     "Mango77x/MHForever": 433171751,
     "MysteriousAeon/rayman3-hd-recompiled": 430236888,
     "N64Recomp/N64Recomp": 216363548,
-    "NoRain211/doa2u-re": 435767353,
+    "NoRain211/doa2u-re": 435864786,
     "Nycolazs/EoWRecomp": 419400676,
     "VasilkovND/gears2-nx": 421545218,
     "Zelda64Recomp/Zelda64Recomp": 242740890,
@@ -277,7 +279,7 @@
     "Shagg88/COGBox": 434285872,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 434419784,
-    "Thorhax/mk9-nx": 432272217,
+    "Thorhax/mk9-nx": 435850394,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 432948623,
     "ElKev118/ghostrecon2-recomp": 431016726,
@@ -299,7 +301,7 @@
     "Fuuzetsu/tenchu-shinobi-gaisen-pc": 435081588,
     "daniel-madrid-07/weeping-of-the-empire": 434638973,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
-    "almost-drowned-rat/THPS2X-Recompiled": 435133958,
+    "almost-drowned-rat/THPS2X-Recompiled": 435877125,
     "n64hub/mario-party-2-recomp": 435467641,
     "n64hub/mario-party-3-recomp": 435468685,
     "Mabec-games/Conker-Recomped-and-Reloaded": 435050267,
@@ -327,7 +329,7 @@
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 435088587,
-    "MildRain479/PokePark-Wiicompiled": 433428033,
-    "gamboozino/ng2recomp": 435689497
+    "MildRain479/PokePark-Wiicompiled": 435930912,
+    "gamboozino/ng2recomp": 435840734
   }
 }
