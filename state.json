@@ -99,7 +99,9 @@
     "gamboozino/ng2recomp",
     "MildRain479/PokePark-Wiicompiled",
     "Chiuauaa/oot-pc-recomp",
-    "projectedan/TigerWoods2004-XBE-Recomp"
+    "projectedan/TigerWoods2004-XBE-Recomp",
+    "DivxPlays/redline-recompiled",
+    "xdivorex-gif/spiderman-2002-pc"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -232,7 +234,9 @@
     "gamboozino/ng2recomp",
     "MildRain479/PokePark-Wiicompiled",
     "Chiuauaa/oot-pc-recomp",
-    "projectedan/TigerWoods2004-XBE-Recomp"
+    "projectedan/TigerWoods2004-XBE-Recomp",
+    "DivxPlays/redline-recompiled",
+    "xdivorex-gif/spiderman-2002-pc"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -253,7 +257,7 @@
     "Zelda64Recomp/Zelda64Recomp": 242740890,
     "abilliontokens/bustinout-recomp": 417866669,
     "abilliontokens/sims2-recomp": 417999106,
-    "contatg/Def-Jam-Android-Native-Port": 425694935,
+    "contatg/Def-Jam-Android-Native-Port": 436476507,
     "dfdx047/Zandatsu": 431894535,
     "elripalda/gta4-ps5": 433445949,
     "enrique363/voldorium": 430015299,
@@ -275,7 +279,7 @@
     "GranasSabre/Grandia3-PC": 431975018,
     "ReRevvedRecomp/rerevved": 432955526,
     "jillsandwich1998/reGH2": 435983148,
-    "Pallypots/ProjectOogie": 435118100,
+    "Pallypots/ProjectOogie": 436426267,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 434285872,
@@ -332,7 +336,9 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 435088587,
     "MildRain479/PokePark-Wiicompiled": 435930912,
-    "gamboozino/ng2recomp": 436097380,
-    "projectedan/TigerWoods2004-XBE-Recomp": 434611421
+    "gamboozino/ng2recomp": 436468072,
+    "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
+    "DivxPlays/redline-recompiled": 436167744,
+    "xdivorex-gif/spiderman-2002-pc": 434651283
   }
 }
