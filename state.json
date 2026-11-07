@@ -106,7 +106,8 @@
     "bassobr/Far-Cry-Instincts-Recomp",
     "NotRexed/Hookshot",
     "SeveerJ/Ghoulies_PC_Recomp",
-    "cheviman/tmnt-port"
+    "cheviman/tmnt-port",
+    "VibePorter/Lazarus"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -246,7 +247,8 @@
     "bassobr/Far-Cry-Instincts-Recomp",
     "NotRexed/Hookshot",
     "SeveerJ/Ghoulies_PC_Recomp",
-    "cheviman/tmnt-port"
+    "cheviman/tmnt-port",
+    "VibePorter/Lazarus"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -263,7 +265,7 @@
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 436210159,
     "Nycolazs/EoWRecomp": 419400676,
-    "VasilkovND/gears2-nx": 421545218,
+    "VasilkovND/gears2-nx": 437543371,
     "Zelda64Recomp/Zelda64Recomp": 242740890,
     "abilliontokens/bustinout-recomp": 417866669,
     "abilliontokens/sims2-recomp": 417999106,
@@ -300,7 +302,7 @@
     "Mwrnk/desktop-melee": 432948623,
     "ElKev118/ghostrecon2-recomp": 431016726,
     "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo": 424883985,
-    "rashevskyv/conker-lr-recomp": 432468805,
+    "rashevskyv/conker-lr-recomp": 437489212,
     "SpeedBreakerProject/speedbreaker-carbon": 435283639,
     "mamcjr/TOTKRecompAndroid": 430980578,
     "badcompany94-rcmp/project-tandem": 434667430,
@@ -346,13 +348,13 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 437258506,
     "MildRain479/PokePark-Wiicompiled": 437047063,
-    "gamboozino/ng2recomp": 437241419,
+    "gamboozino/ng2recomp": 437558757,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437452858,
-    "NotRexed/Hookshot": 437267265,
+    "NotRexed/Hookshot": 437493848,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 437158134
+    "cheviman/tmnt-port": 437549432
   }
 }
