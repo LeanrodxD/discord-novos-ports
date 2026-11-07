@@ -105,7 +105,8 @@
     "OpokXeno/xsg-ii-decomp",
     "bassobr/Far-Cry-Instincts-Recomp",
     "NotRexed/Hookshot",
-    "SeveerJ/Ghoulies_PC_Recomp"
+    "SeveerJ/Ghoulies_PC_Recomp",
+    "cheviman/tmnt-port"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -244,7 +245,8 @@
     "OpokXeno/xsg-ii-decomp",
     "bassobr/Far-Cry-Instincts-Recomp",
     "NotRexed/Hookshot",
-    "SeveerJ/Ghoulies_PC_Recomp"
+    "SeveerJ/Ghoulies_PC_Recomp",
+    "cheviman/tmnt-port"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -287,7 +289,7 @@
     "GranasSabre/Grandia3-PC": 431975018,
     "ReRevvedRecomp/rerevved": 432955526,
     "jillsandwich1998/reGH2": 435983148,
-    "Pallypots/ProjectOogie": 436426267,
+    "Pallypots/ProjectOogie": 437445604,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 437280379,
@@ -312,7 +314,7 @@
     "giacomozama/live-and-recompiled": 436644329,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437386543,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437411396,
     "daniel-madrid-07/weeping-of-the-empire": 437364707,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 435877125,
@@ -322,7 +324,7 @@
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
     "thatcalikid760/SCDA360pcport": 431982392,
-    "shaneomac1337/Top-Spin-4-Recomp": 430923336,
+    "shaneomac1337/Top-Spin-4-Recomp": 437398314,
     "KamiTK2/openNG2": 435660426,
     "thefixinhixon/woohoo-flight-school": 431006223,
     "andrewnakas/gtav-recomp": 431125088,
@@ -348,8 +350,9 @@
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
-    "bassobr/Far-Cry-Instincts-Recomp": 437234309,
+    "bassobr/Far-Cry-Instincts-Recomp": 437452858,
     "NotRexed/Hookshot": 437267265,
-    "SeveerJ/Ghoulies_PC_Recomp": 436821836
+    "SeveerJ/Ghoulies_PC_Recomp": 436821836,
+    "cheviman/tmnt-port": 437158134
   }
 }
