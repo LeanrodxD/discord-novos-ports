@@ -103,7 +103,8 @@
     "DivxPlays/redline-recompiled",
     "xdivorex-gif/spiderman-2002-pc",
     "OpokXeno/xsg-ii-decomp",
-    "bassobr/Far-Cry-Instincts-Recomp"
+    "bassobr/Far-Cry-Instincts-Recomp",
+    "NotRexed/Hookshot"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -240,7 +241,8 @@
     "DivxPlays/redline-recompiled",
     "xdivorex-gif/spiderman-2002-pc",
     "OpokXeno/xsg-ii-decomp",
-    "bassobr/Far-Cry-Instincts-Recomp"
+    "bassobr/Far-Cry-Instincts-Recomp",
+    "NotRexed/Hookshot"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -286,10 +288,10 @@
     "Pallypots/ProjectOogie": 436426267,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
-    "Shagg88/COGBox": 437069843,
+    "Shagg88/COGBox": 437280379,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 436836684,
-    "Thorhax/mk9-nx": 435850394,
+    "Thorhax/mk9-nx": 437214141,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 432948623,
     "ElKev118/ghostrecon2-recomp": 431016726,
@@ -338,12 +340,13 @@
     "TekRantGaming/incredible-hulk-recompiled": 431717185,
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
-    "dennisabalo18-bot/red-dead-revolver-pc": 437106858,
+    "dennisabalo18-bot/red-dead-revolver-pc": 437258506,
     "MildRain479/PokePark-Wiicompiled": 437047063,
-    "gamboozino/ng2recomp": 436573500,
+    "gamboozino/ng2recomp": 437241419,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
-    "bassobr/Far-Cry-Instincts-Recomp": 437080697
+    "bassobr/Far-Cry-Instincts-Recomp": 437234309,
+    "NotRexed/Hookshot": 437267265
   }
 }
