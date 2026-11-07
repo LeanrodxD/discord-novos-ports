@@ -104,7 +104,8 @@
     "xdivorex-gif/spiderman-2002-pc",
     "OpokXeno/xsg-ii-decomp",
     "bassobr/Far-Cry-Instincts-Recomp",
-    "NotRexed/Hookshot"
+    "NotRexed/Hookshot",
+    "SeveerJ/Ghoulies_PC_Recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -242,7 +243,8 @@
     "xdivorex-gif/spiderman-2002-pc",
     "OpokXeno/xsg-ii-decomp",
     "bassobr/Far-Cry-Instincts-Recomp",
-    "NotRexed/Hookshot"
+    "NotRexed/Hookshot",
+    "SeveerJ/Ghoulies_PC_Recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -306,16 +308,16 @@
     "danielalves96/gow-pc-port": 436582753,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 435699257,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 436060246,
+    "n64hub/mario-party-recomp": 437320886,
     "giacomozama/live-and-recompiled": 436644329,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437188860,
-    "daniel-madrid-07/weeping-of-the-empire": 434638973,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437386543,
+    "daniel-madrid-07/weeping-of-the-empire": 437364707,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 435877125,
-    "n64hub/mario-party-2-recomp": 436066653,
-    "n64hub/mario-party-3-recomp": 436070233,
+    "n64hub/mario-party-2-recomp": 437323640,
+    "n64hub/mario-party-3-recomp": 437327489,
     "Mabec-games/Conker-Recomped-and-Reloaded": 436912056,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
@@ -347,6 +349,7 @@
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437234309,
-    "NotRexed/Hookshot": 437267265
+    "NotRexed/Hookshot": 437267265,
+    "SeveerJ/Ghoulies_PC_Recomp": 436821836
   }
 }
