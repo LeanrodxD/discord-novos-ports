@@ -107,7 +107,8 @@
     "NotRexed/Hookshot",
     "SeveerJ/Ghoulies_PC_Recomp",
     "cheviman/tmnt-port",
-    "VibePorter/Lazarus"
+    "VibePorter/Lazarus",
+    "Mars7x/echora"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -248,7 +249,8 @@
     "NotRexed/Hookshot",
     "SeveerJ/Ghoulies_PC_Recomp",
     "cheviman/tmnt-port",
-    "VibePorter/Lazarus"
+    "VibePorter/Lazarus",
+    "Mars7x/echora"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -319,7 +321,7 @@
     "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437411396,
     "daniel-madrid-07/weeping-of-the-empire": 437364707,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
-    "almost-drowned-rat/THPS2X-Recompiled": 437607916,
+    "almost-drowned-rat/THPS2X-Recompiled": 437758163,
     "n64hub/mario-party-2-recomp": 437323640,
     "n64hub/mario-party-3-recomp": 437327489,
     "Mabec-games/Conker-Recomped-and-Reloaded": 436912056,
@@ -355,6 +357,6 @@
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
     "NotRexed/Hookshot": 437493848,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 437642121
+    "cheviman/tmnt-port": 437746378
   }
 }
