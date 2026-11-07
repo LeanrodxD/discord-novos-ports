@@ -101,7 +101,9 @@
     "Chiuauaa/oot-pc-recomp",
     "projectedan/TigerWoods2004-XBE-Recomp",
     "DivxPlays/redline-recompiled",
-    "xdivorex-gif/spiderman-2002-pc"
+    "xdivorex-gif/spiderman-2002-pc",
+    "OpokXeno/xsg-ii-decomp",
+    "bassobr/Far-Cry-Instincts-Recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -236,7 +238,9 @@
     "Chiuauaa/oot-pc-recomp",
     "projectedan/TigerWoods2004-XBE-Recomp",
     "DivxPlays/redline-recompiled",
-    "xdivorex-gif/spiderman-2002-pc"
+    "xdivorex-gif/spiderman-2002-pc",
+    "OpokXeno/xsg-ii-decomp",
+    "bassobr/Far-Cry-Instincts-Recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -304,7 +308,7 @@
     "giacomozama/live-and-recompiled": 436644329,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 436730426,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437188860,
     "daniel-madrid-07/weeping-of-the-empire": 434638973,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 435877125,
@@ -329,16 +333,17 @@
     "minimalice92/bloodwake-recomp": 436190737,
     "AlvaroEPena/bo2-360-nx": 433392192,
     "ChaosTheory1075/mp3-ps5": 430414421,
-    "ClydeyEXE/uc2-recomp": 433015495,
+    "ClydeyEXE/uc2-recomp": 437211522,
     "StevensND/lm-nx": 430716433,
     "TekRantGaming/incredible-hulk-recompiled": 431717185,
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
-    "dennisabalo18-bot/red-dead-revolver-pc": 436952012,
+    "dennisabalo18-bot/red-dead-revolver-pc": 437106858,
     "MildRain479/PokePark-Wiicompiled": 437047063,
     "gamboozino/ng2recomp": 436573500,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
-    "xdivorex-gif/spiderman-2002-pc": 434651283
+    "xdivorex-gif/spiderman-2002-pc": 434651283,
+    "bassobr/Far-Cry-Instincts-Recomp": 437080697
   }
 }
