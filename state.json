@@ -108,7 +108,8 @@
     "SeveerJ/Ghoulies_PC_Recomp",
     "cheviman/tmnt-port",
     "VibePorter/Lazarus",
-    "Mars7x/echora"
+    "Mars7x/echora",
+    "MattyKen619/Pikmin-PS3-Port"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -250,7 +251,8 @@
     "SeveerJ/Ghoulies_PC_Recomp",
     "cheviman/tmnt-port",
     "VibePorter/Lazarus",
-    "Mars7x/echora"
+    "Mars7x/echora",
+    "MattyKen619/Pikmin-PS3-Port"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -296,7 +298,7 @@
     "Pallypots/ProjectOogie": 437445604,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
-    "Shagg88/COGBox": 437280379,
+    "Shagg88/COGBox": 437865187,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 436836684,
     "Thorhax/mk9-nx": 437214141,
@@ -318,7 +320,7 @@
     "giacomozama/live-and-recompiled": 436644329,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437411396,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 437930050,
     "daniel-madrid-07/weeping-of-the-empire": 437364707,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 437758163,
@@ -333,14 +335,14 @@
     "thefixinhixon/woohoo-flight-school": 431006223,
     "andrewnakas/gtav-recomp": 431125088,
     "drakolordx7/pokopia-recomp": 434393044,
-    "RetroPulse03/WinBackRecomp": 433486024,
+    "RetroPulse03/WinBackRecomp": 437892184,
     "hk21x/007-agentunderfire-recomp": 432554539,
     "dvilelaf/battlestadium-don": 431497869,
     "tmcleroy/soulcalibur2-recomp": 434898159,
     "exoteric33/ps2-native-recomp": 437821075,
     "Llamapixels/TenchuRFDRecomp": 433771876,
     "Peterson047/BLACK-XBEMultiplayer": 434018660,
-    "minimalice92/bloodwake-recomp": 436190737,
+    "minimalice92/bloodwake-recomp": 437879949,
     "AlvaroEPena/bo2-360-nx": 433392192,
     "ChaosTheory1075/mp3-ps5": 430414421,
     "ClydeyEXE/uc2-recomp": 437211522,
@@ -357,6 +359,7 @@
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
     "NotRexed/Hookshot": 437493848,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 437746378
+    "cheviman/tmnt-port": 437746378,
+    "MattyKen619/Pikmin-PS3-Port": 430991135
   }
 }
