@@ -114,7 +114,8 @@
     "Goldoire/fefw-recomp",
     "saulob/el-chavo-kart-recompiled",
     "kvse/dsr-native",
-    "aoxzh/bayo3-recomp"
+    "aoxzh/bayo3-recomp",
+    "kayliox/transformers-armada-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -262,7 +263,8 @@
     "Goldoire/fefw-recomp",
     "saulob/el-chavo-kart-recompiled",
     "kvse/dsr-native",
-    "aoxzh/bayo3-recomp"
+    "aoxzh/bayo3-recomp",
+    "kayliox/transformers-armada-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -292,7 +294,7 @@
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 433524864,
-    "mamcjr/BOTWRecompAndroid": 438042048,
+    "mamcjr/BOTWRecompAndroid": 438469284,
     "mercurialw0rld/thebeatlesrockband-pcport": 434603919,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
@@ -313,7 +315,7 @@
     "Odrannnn/MetroidPrime2Port": 438294662,
     "Thorhax/mk9-nx": 438195404,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
-    "Mwrnk/desktop-melee": 432948623,
+    "Mwrnk/desktop-melee": 438446714,
     "ElKev118/ghostrecon2-recomp": 431016726,
     "Masterllgod/midnight-club-3-dub-edition-remix-port-nativo": 424883985,
     "rashevskyv/conker-lr-recomp": 437489212,
@@ -349,7 +351,7 @@
     "hk21x/007-agentunderfire-recomp": 432554539,
     "dvilelaf/battlestadium-don": 431497869,
     "tmcleroy/soulcalibur2-recomp": 434898159,
-    "exoteric33/ps2-native-recomp": 437821075,
+    "exoteric33/ps2-native-recomp": 438531351,
     "Llamapixels/TenchuRFDRecomp": 433771876,
     "Peterson047/BLACK-XBEMultiplayer": 434018660,
     "minimalice92/bloodwake-recomp": 438180864,
@@ -362,19 +364,20 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 438090456,
-    "gamboozino/ng2recomp": 438316017,
+    "gamboozino/ng2recomp": 438452047,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
-    "NotRexed/Hookshot": 438381605,
+    "NotRexed/Hookshot": 438514789,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 437746378,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438051023,
-    "Goldoire/fefw-recomp": 438190834,
+    "Goldoire/fefw-recomp": 438453097,
     "featureJosh/Recompia": 438404787,
     "saulob/el-chavo-kart-recompiled": 437274742,
-    "kvse/dsr-native": 438165054
+    "kvse/dsr-native": 438165054,
+    "kayliox/transformers-armada-recomp": 438532095
   }
 }
