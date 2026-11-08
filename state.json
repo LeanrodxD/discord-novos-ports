@@ -112,7 +112,9 @@
     "MattyKen619/Pikmin-PS3-Port",
     "featureJosh/Recompia",
     "Goldoire/fefw-recomp",
-    "saulob/el-chavo-kart-recompiled"
+    "saulob/el-chavo-kart-recompiled",
+    "kvse/dsr-native",
+    "aoxzh/bayo3-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -258,7 +260,9 @@
     "MattyKen619/Pikmin-PS3-Port",
     "featureJosh/Recompia",
     "Goldoire/fefw-recomp",
-    "saulob/el-chavo-kart-recompiled"
+    "saulob/el-chavo-kart-recompiled",
+    "kvse/dsr-native",
+    "aoxzh/bayo3-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -282,7 +286,7 @@
     "contatg/Def-Jam-Android-Native-Port": 436476507,
     "dfdx047/Zandatsu": 431894535,
     "elripalda/gta4-ps5": 433445949,
-    "enrique363/voldorium": 430015299,
+    "enrique363/voldorium": 438349349,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -301,7 +305,7 @@
     "GranasSabre/Grandia3-PC": 431975018,
     "ReRevvedRecomp/rerevved": 432955526,
     "jillsandwich1998/reGH2": 435983148,
-    "Pallypots/ProjectOogie": 438031970,
+    "Pallypots/ProjectOogie": 438352723,
     "victor-takai/rogue-galaxy-recomp": 434310370,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 437865187,
@@ -363,13 +367,14 @@
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
-    "NotRexed/Hookshot": 438119918,
+    "NotRexed/Hookshot": 438381605,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 437746378,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438051023,
     "Goldoire/fefw-recomp": 438190834,
-    "featureJosh/Recompia": 438323353,
-    "saulob/el-chavo-kart-recompiled": 437274742
+    "featureJosh/Recompia": 438404787,
+    "saulob/el-chavo-kart-recompiled": 437274742,
+    "kvse/dsr-native": 438165054
   }
 }
