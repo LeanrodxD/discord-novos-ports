@@ -109,7 +109,10 @@
     "cheviman/tmnt-port",
     "VibePorter/Lazarus",
     "Mars7x/echora",
-    "MattyKen619/Pikmin-PS3-Port"
+    "MattyKen619/Pikmin-PS3-Port",
+    "featureJosh/Recompia",
+    "Goldoire/fefw-recomp",
+    "saulob/el-chavo-kart-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -252,7 +255,10 @@
     "cheviman/tmnt-port",
     "VibePorter/Lazarus",
     "Mars7x/echora",
-    "MattyKen619/Pikmin-PS3-Port"
+    "MattyKen619/Pikmin-PS3-Port",
+    "featureJosh/Recompia",
+    "Goldoire/fefw-recomp",
+    "saulob/el-chavo-kart-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -300,7 +306,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 437865187,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 436836684,
+    "Odrannnn/MetroidPrime2Port": 438294662,
     "Thorhax/mk9-nx": 438195404,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 432948623,
@@ -352,7 +358,7 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 438090456,
-    "gamboozino/ng2recomp": 438222646,
+    "gamboozino/ng2recomp": 438316017,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
@@ -361,6 +367,9 @@
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 437746378,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
-    "Lucas-blip-png/dkb-pc-recomp": 438051023
+    "Lucas-blip-png/dkb-pc-recomp": 438051023,
+    "Goldoire/fefw-recomp": 438190834,
+    "featureJosh/Recompia": 438323353,
+    "saulob/el-chavo-kart-recompiled": 437274742
   }
 }
