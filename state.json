@@ -120,7 +120,8 @@
     "bystritskiy/reUndr2-ps5",
     "Dittobyte/Recompia",
     "fasipe/Castlevania-COD-QOL",
-    "STS78721/MKW-THWOMP"
+    "STS78721/MKW-THWOMP",
+    "adriadam10/mkw-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -274,7 +275,8 @@
     "bystritskiy/reUndr2-ps5",
     "Dittobyte/Recompia",
     "fasipe/Castlevania-COD-QOL",
-    "STS78721/MKW-THWOMP"
+    "STS78721/MKW-THWOMP",
+    "adriadam10/mkw-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -379,19 +381,20 @@
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
-    "NotRexed/Hookshot": 439288077,
+    "NotRexed/Hookshot": 439438796,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 437746378,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438650493,
     "Goldoire/fefw-recomp": 438842256,
-    "featureJosh/Recompia": 438910124,
+    "featureJosh/Recompia": 439401499,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 438165054,
-    "kayliox/transformers-armada-recomp": 438845793,
+    "kayliox/transformers-armada-recomp": 439478276,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 434390746,
-    "Dittobyte/Recompia": 438910124,
-    "fasipe/Castlevania-COD-QOL": 438545527
+    "Dittobyte/Recompia": 439401499,
+    "fasipe/Castlevania-COD-QOL": 438545527,
+    "adriadam10/mkw-recomp": 439495503
   }
 }
