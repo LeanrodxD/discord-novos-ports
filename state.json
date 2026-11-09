@@ -121,7 +121,8 @@
     "Dittobyte/Recompia",
     "fasipe/Castlevania-COD-QOL",
     "STS78721/MKW-THWOMP",
-    "adriadam10/mkw-recomp"
+    "adriadam10/mkw-recomp",
+    "sebaz07/crashwoc-vita"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -276,7 +277,8 @@
     "Dittobyte/Recompia",
     "fasipe/Castlevania-COD-QOL",
     "STS78721/MKW-THWOMP",
-    "adriadam10/mkw-recomp"
+    "adriadam10/mkw-recomp",
+    "sebaz07/crashwoc-vita"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -288,7 +290,7 @@
     "HarbourMasters/SpaghettiKart": 290115373,
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
-    "Mango77x/MHForever": 439247780,
+    "Mango77x/MHForever": 439637967,
     "MysteriousAeon/rayman3-hd-recompiled": 430236888,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 438842824,
@@ -299,7 +301,7 @@
     "abilliontokens/sims2-recomp": 417999106,
     "contatg/Def-Jam-Android-Native-Port": 436476507,
     "dfdx047/Zandatsu": 431894535,
-    "elripalda/gta4-ps5": 433445949,
+    "elripalda/gta4-ps5": 439528387,
     "enrique363/voldorium": 439264717,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
@@ -324,7 +326,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 437865187,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 438294662,
+    "Odrannnn/MetroidPrime2Port": 439506926,
     "Thorhax/mk9-nx": 438195404,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 438446714,
@@ -381,20 +383,21 @@
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
-    "NotRexed/Hookshot": 439438796,
+    "NotRexed/Hookshot": 439526113,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 437746378,
+    "cheviman/tmnt-port": 439655680,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438650493,
     "Goldoire/fefw-recomp": 438842256,
     "featureJosh/Recompia": 439401499,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 438165054,
-    "kayliox/transformers-armada-recomp": 439478276,
+    "kayliox/transformers-armada-recomp": 439625934,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 434390746,
     "Dittobyte/Recompia": 439401499,
     "fasipe/Castlevania-COD-QOL": 438545527,
-    "adriadam10/mkw-recomp": 439495503
+    "adriadam10/mkw-recomp": 439593703,
+    "sebaz07/crashwoc-vita": 436404223
   }
 }
