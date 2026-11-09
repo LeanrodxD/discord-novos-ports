@@ -115,7 +115,9 @@
     "saulob/el-chavo-kart-recompiled",
     "kvse/dsr-native",
     "aoxzh/bayo3-recomp",
-    "kayliox/transformers-armada-recomp"
+    "kayliox/transformers-armada-recomp",
+    "LAB0ULANGE/BurnoutLegends-Vita",
+    "bystritskiy/reUndr2-ps5"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -264,7 +266,9 @@
     "saulob/el-chavo-kart-recompiled",
     "kvse/dsr-native",
     "aoxzh/bayo3-recomp",
-    "kayliox/transformers-armada-recomp"
+    "kayliox/transformers-armada-recomp",
+    "LAB0ULANGE/BurnoutLegends-Vita",
+    "bystritskiy/reUndr2-ps5"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -288,7 +292,7 @@
     "contatg/Def-Jam-Android-Native-Port": 436476507,
     "dfdx047/Zandatsu": 431894535,
     "elripalda/gta4-ps5": 433445949,
-    "enrique363/voldorium": 438349349,
+    "enrique363/voldorium": 438559979,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -369,15 +373,17 @@
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 437648460,
-    "NotRexed/Hookshot": 438514789,
+    "NotRexed/Hookshot": 438539350,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 437746378,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438051023,
-    "Goldoire/fefw-recomp": 438453097,
-    "featureJosh/Recompia": 438404787,
+    "Goldoire/fefw-recomp": 438617159,
+    "featureJosh/Recompia": 438558098,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 438165054,
-    "kayliox/transformers-armada-recomp": 438532095
+    "kayliox/transformers-armada-recomp": 438588870,
+    "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
+    "bystritskiy/reUndr2-ps5": 434390746
   }
 }
