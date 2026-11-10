@@ -124,7 +124,9 @@
     "adriadam10/mkw-recomp",
     "sebaz07/crashwoc-vita",
     "vfjoo888/SuperWonders",
-    "Destinity13/TimeSplitters-2-Native-Linux-Recomp"
+    "Destinity13/TimeSplitters-2-Native-Linux-Recomp",
+    "LomoXSoft/AfroSamuraiRecomp",
+    "astromen2009/Syphon-Filter-3-pc-port"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -282,7 +284,9 @@
     "adriadam10/mkw-recomp",
     "sebaz07/crashwoc-vita",
     "vfjoo888/SuperWonders",
-    "Destinity13/TimeSplitters-2-Native-Linux-Recomp"
+    "Destinity13/TimeSplitters-2-Native-Linux-Recomp",
+    "LomoXSoft/AfroSamuraiRecomp",
+    "astromen2009/Syphon-Filter-3-pc-port"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -368,7 +372,7 @@
     "RetroPulse03/WinBackRecomp": 437892184,
     "hk21x/007-agentunderfire-recomp": 432554539,
     "dvilelaf/battlestadium-don": 431497869,
-    "tmcleroy/soulcalibur2-recomp": 434898159,
+    "tmcleroy/soulcalibur2-recomp": 439824045,
     "exoteric33/ps2-native-recomp": 438993294,
     "Llamapixels/TenchuRFDRecomp": 433771876,
     "Peterson047/BLACK-XBEMultiplayer": 434018660,
@@ -404,6 +408,8 @@
     "adriadam10/mkw-recomp": 439736622,
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 438490482,
-    "vfjoo888/SuperWonders": 439680509
+    "vfjoo888/SuperWonders": 439680509,
+    "LomoXSoft/AfroSamuraiRecomp": 439769864,
+    "astromen2009/Syphon-Filter-3-pc-port": 439080094
   }
 }
