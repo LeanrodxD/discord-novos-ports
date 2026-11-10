@@ -127,7 +127,8 @@
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp",
     "LomoXSoft/AfroSamuraiRecomp",
     "astromen2009/Syphon-Filter-3-pc-port",
-    "SerenityG4K/SpaceAnimalsRecomp"
+    "SerenityG4K/SpaceAnimalsRecomp",
+    "kayochiaradia/mtf-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -288,7 +289,8 @@
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp",
     "LomoXSoft/AfroSamuraiRecomp",
     "astromen2009/Syphon-Filter-3-pc-port",
-    "SerenityG4K/SpaceAnimalsRecomp"
+    "SerenityG4K/SpaceAnimalsRecomp",
+    "kayochiaradia/mtf-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -336,7 +338,7 @@
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 436064264,
     "Shagg88/COGBox": 437865187,
     "projectedan/McRae05-XBE-Recomp": 426422730,
-    "Odrannnn/MetroidPrime2Port": 439506926,
+    "Odrannnn/MetroidPrime2Port": 440868864,
     "Thorhax/mk9-nx": 438195404,
     "josiahg2502-glitch/MonopolyRecompiled": 427795102,
     "Mwrnk/desktop-melee": 438446714,
@@ -388,32 +390,33 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 438090456,
-    "gamboozino/ng2recomp": 439771200,
+    "gamboozino/ng2recomp": 440837246,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 436167744,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
-    "bassobr/Far-Cry-Instincts-Recomp": 440256252,
+    "bassobr/Far-Cry-Instincts-Recomp": 440904930,
     "NotRexed/Hookshot": 440595064,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 439655680,
+    "cheviman/tmnt-port": 440871476,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 438650493,
     "Goldoire/fefw-recomp": 440079607,
-    "featureJosh/Recompia": 440753683,
+    "featureJosh/Recompia": 440868310,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 438165054,
-    "kayliox/transformers-armada-recomp": 439808854,
+    "kayliox/transformers-armada-recomp": 440880316,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 434390746,
-    "Dittobyte/Recompia": 440753683,
+    "Dittobyte/Recompia": 440868310,
     "fasipe/Castlevania-COD-QOL": 438545527,
-    "adriadam10/mkw-recomp": 440414686,
+    "adriadam10/mkw-recomp": 440835930,
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 440748289,
     "vfjoo888/SuperWonders": 439680509,
     "LomoXSoft/AfroSamuraiRecomp": 439769864,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
     "aoxzh/bayo3-recomp": 440529896,
-    "SerenityG4K/SpaceAnimalsRecomp": 440609939
+    "SerenityG4K/SpaceAnimalsRecomp": 440609939,
+    "kayochiaradia/mtf-recomp": 439374284
   }
 }
