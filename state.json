@@ -131,7 +131,8 @@
     "kayochiaradia/mtf-recomp",
     "Ieatzcrayonz/MarioTennisRecomp",
     "Guuzzeji/otogi-xunchain",
-    "wiluss/btvs-recomp"
+    "wiluss/btvs-recomp",
+    "bugcoder00/FarCryInstinctsPredatorRecomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -296,7 +297,8 @@
     "kayochiaradia/mtf-recomp",
     "Ieatzcrayonz/MarioTennisRecomp",
     "Guuzzeji/otogi-xunchain",
-    "wiluss/btvs-recomp"
+    "wiluss/btvs-recomp",
+    "bugcoder00/FarCryInstinctsPredatorRecomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -369,7 +371,7 @@
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 442397244,
     "n64hub/mario-party-2-recomp": 442509632,
-    "n64hub/mario-party-3-recomp": 441221099,
+    "n64hub/mario-party-3-recomp": 442649229,
     "Mabec-games/Conker-Recomped-and-Reloaded": 436912056,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
@@ -426,6 +428,7 @@
     "kayochiaradia/mtf-recomp": 442403169,
     "Ieatzcrayonz/MarioTennisRecomp": 438526413,
     "Guuzzeji/otogi-xunchain": 438023871,
-    "wiluss/btvs-recomp": 438300048
+    "wiluss/btvs-recomp": 438300048,
+    "bugcoder00/FarCryInstinctsPredatorRecomp": 441090707
   }
 }
