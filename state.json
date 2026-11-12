@@ -132,7 +132,8 @@
     "Ieatzcrayonz/MarioTennisRecomp",
     "Guuzzeji/otogi-xunchain",
     "wiluss/btvs-recomp",
-    "bugcoder00/FarCryInstinctsPredatorRecomp"
+    "bugcoder00/FarCryInstinctsPredatorRecomp",
+    "arcanite24/lavender-shift"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -298,7 +299,8 @@
     "Ieatzcrayonz/MarioTennisRecomp",
     "Guuzzeji/otogi-xunchain",
     "wiluss/btvs-recomp",
-    "bugcoder00/FarCryInstinctsPredatorRecomp"
+    "bugcoder00/FarCryInstinctsPredatorRecomp",
+    "arcanite24/lavender-shift"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -310,7 +312,7 @@
     "HarbourMasters/SpaghettiKart": 290115373,
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
-    "Mango77x/MHForever": 441674671,
+    "Mango77x/MHForever": 442799982,
     "MysteriousAeon/rayman3-hd-recompiled": 439794056,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 442344296,
@@ -407,7 +409,7 @@
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 440947364,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
-    "Lucas-blip-png/dkb-pc-recomp": 438650493,
+    "Lucas-blip-png/dkb-pc-recomp": 442767954,
     "Goldoire/fefw-recomp": 442004766,
     "featureJosh/Recompia": 442518100,
     "saulob/el-chavo-kart-recompiled": 437274742,
@@ -428,7 +430,8 @@
     "kayochiaradia/mtf-recomp": 442403169,
     "Ieatzcrayonz/MarioTennisRecomp": 438526413,
     "Guuzzeji/otogi-xunchain": 438023871,
-    "wiluss/btvs-recomp": 438300048,
-    "bugcoder00/FarCryInstinctsPredatorRecomp": 441090707
+    "wiluss/btvs-recomp": 442930600,
+    "bugcoder00/FarCryInstinctsPredatorRecomp": 441090707,
+    "arcanite24/lavender-shift": 442221029
   }
 }
