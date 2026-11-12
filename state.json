@@ -129,7 +129,9 @@
     "astromen2009/Syphon-Filter-3-pc-port",
     "SerenityG4K/SpaceAnimalsRecomp",
     "kayochiaradia/mtf-recomp",
-    "Ieatzcrayonz/MarioTennisRecomp"
+    "Ieatzcrayonz/MarioTennisRecomp",
+    "Guuzzeji/otogi-xunchain",
+    "wiluss/btvs-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -292,7 +294,9 @@
     "astromen2009/Syphon-Filter-3-pc-port",
     "SerenityG4K/SpaceAnimalsRecomp",
     "kayochiaradia/mtf-recomp",
-    "Ieatzcrayonz/MarioTennisRecomp"
+    "Ieatzcrayonz/MarioTennisRecomp",
+    "Guuzzeji/otogi-xunchain",
+    "wiluss/btvs-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -307,7 +311,7 @@
     "Mango77x/MHForever": 441674671,
     "MysteriousAeon/rayman3-hd-recompiled": 439794056,
     "N64Recomp/N64Recomp": 216363548,
-    "NoRain211/doa2u-re": 441295394,
+    "NoRain211/doa2u-re": 442344296,
     "Nycolazs/EoWRecomp": 419400676,
     "VasilkovND/gears2-nx": 437543371,
     "Zelda64Recomp/Zelda64Recomp": 242740890,
@@ -406,7 +410,7 @@
     "featureJosh/Recompia": 441511358,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 441122826,
-    "kayliox/transformers-armada-recomp": 442192359,
+    "kayliox/transformers-armada-recomp": 442327443,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 442108819,
     "Dittobyte/Recompia": 441511358,
@@ -415,11 +419,13 @@
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 442172086,
     "vfjoo888/SuperWonders": 441118815,
-    "LomoXSoft/AfroSamuraiRecomp": 441571069,
+    "LomoXSoft/AfroSamuraiRecomp": 442319154,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
     "aoxzh/bayo3-recomp": 441003849,
     "SerenityG4K/SpaceAnimalsRecomp": 440609939,
     "kayochiaradia/mtf-recomp": 441078024,
-    "Ieatzcrayonz/MarioTennisRecomp": 438526413
+    "Ieatzcrayonz/MarioTennisRecomp": 438526413,
+    "Guuzzeji/otogi-xunchain": 438023871,
+    "wiluss/btvs-recomp": 438300048
   }
 }
