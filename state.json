@@ -135,7 +135,8 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp",
     "arcanite24/lavender-shift",
     "octavioCuatrochio/nfsu2-gcpc",
-    "DivxPlays/stilwater-recompiled"
+    "DivxPlays/stilwater-recompiled",
+    "pixl27/ProjectReLink"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -304,7 +305,8 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp",
     "arcanite24/lavender-shift",
     "octavioCuatrochio/nfsu2-gcpc",
-    "DivxPlays/stilwater-recompiled"
+    "DivxPlays/stilwater-recompiled",
+    "pixl27/ProjectReLink"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -334,7 +336,7 @@
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 433524864,
-    "mamcjr/BOTWRecompAndroid": 438638148,
+    "mamcjr/BOTWRecompAndroid": 444562175,
     "mercurialw0rld/thebeatlesrockband-pcport": 434603919,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
@@ -345,7 +347,7 @@
     "tuancapoo/mgr-nx-deko": 422019235,
     "Flippage/gears-of-war-3-recomp": 429233581,
     "GranasSabre/Grandia3-PC": 439757468,
-    "ReRevvedRecomp/rerevved": 442045489,
+    "ReRevvedRecomp/rerevved": 444599061,
     "jillsandwich1998/reGH2": 435983148,
     "Pallypots/ProjectOogie": 438799125,
     "victor-takai/rogue-galaxy-recomp": 443665966,
@@ -372,12 +374,12 @@
     "giacomozama/live-and-recompiled": 438157395,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 444075517,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 444459227,
     "daniel-madrid-07/weeping-of-the-empire": 437997572,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 443675588,
     "n64hub/mario-party-2-recomp": 444076587,
-    "n64hub/mario-party-3-recomp": 444076742,
+    "n64hub/mario-party-3-recomp": 444454066,
     "Mabec-games/Conker-Recomped-and-Reloaded": 436912056,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 430974341,
@@ -404,11 +406,11 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 441157300,
-    "gamboozino/ng2recomp": 442166480,
+    "gamboozino/ng2recomp": 444481190,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
-    "bassobr/Far-Cry-Instincts-Recomp": 444341784,
+    "bassobr/Far-Cry-Instincts-Recomp": 444587330,
     "NotRexed/Hookshot": 441106443,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 444338942,
@@ -418,9 +420,9 @@
     "featureJosh/Recompia": 443873552,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 443895848,
-    "kayliox/transformers-armada-recomp": 443653717,
+    "kayliox/transformers-armada-recomp": 444414155,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
-    "bystritskiy/reUndr2-ps5": 442108819,
+    "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 443873552,
     "fasipe/Castlevania-COD-QOL": 438545527,
     "adriadam10/mkw-recomp": 444282201,
@@ -437,6 +439,7 @@
     "wiluss/btvs-recomp": 443249565,
     "bugcoder00/FarCryInstinctsPredatorRecomp": 443689839,
     "arcanite24/lavender-shift": 442221029,
-    "DivxPlays/stilwater-recompiled": 440073844
+    "DivxPlays/stilwater-recompiled": 440073844,
+    "pixl27/ProjectReLink": 444467232
   }
 }
