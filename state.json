@@ -136,7 +136,8 @@
     "arcanite24/lavender-shift",
     "octavioCuatrochio/nfsu2-gcpc",
     "DivxPlays/stilwater-recompiled",
-    "pixl27/ProjectReLink"
+    "pixl27/ProjectReLink",
+    "roz1077/true-crime-new-york-city-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -306,7 +307,8 @@
     "arcanite24/lavender-shift",
     "octavioCuatrochio/nfsu2-gcpc",
     "DivxPlays/stilwater-recompiled",
-    "pixl27/ProjectReLink"
+    "pixl27/ProjectReLink",
+    "roz1077/true-crime-new-york-city-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -330,7 +332,7 @@
     "contatg/Def-Jam-Android-Native-Port": 436476507,
     "dfdx047/Zandatsu": 443761750,
     "elripalda/gta4-ps5": 439528387,
-    "enrique363/voldorium": 439264717,
+    "enrique363/voldorium": 444681034,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -413,17 +415,17 @@
     "bassobr/Far-Cry-Instincts-Recomp": 444587330,
     "NotRexed/Hookshot": 441106443,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 444338942,
+    "cheviman/tmnt-port": 444683818,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 442767954,
-    "Goldoire/fefw-recomp": 442004766,
-    "featureJosh/Recompia": 443873552,
+    "Goldoire/fefw-recomp": 444749183,
+    "featureJosh/Recompia": 444634377,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 443895848,
-    "kayliox/transformers-armada-recomp": 444414155,
+    "kayliox/transformers-armada-recomp": 444665095,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 443873552,
+    "Dittobyte/Recompia": 444634377,
     "fasipe/Castlevania-COD-QOL": 438545527,
     "adriadam10/mkw-recomp": 444282201,
     "sebaz07/crashwoc-vita": 436404223,
@@ -431,15 +433,16 @@
     "vfjoo888/SuperWonders": 442442626,
     "LomoXSoft/AfroSamuraiRecomp": 444347693,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
-    "aoxzh/bayo3-recomp": 443732786,
+    "aoxzh/bayo3-recomp": 444712120,
     "SerenityG4K/SpaceAnimalsRecomp": 442451806,
     "kayochiaradia/mtf-recomp": 442403169,
     "Ieatzcrayonz/MarioTennisRecomp": 438526413,
     "Guuzzeji/otogi-xunchain": 438023871,
-    "wiluss/btvs-recomp": 443249565,
+    "wiluss/btvs-recomp": 444683378,
     "bugcoder00/FarCryInstinctsPredatorRecomp": 443689839,
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
-    "pixl27/ProjectReLink": 444467232
+    "pixl27/ProjectReLink": 444467232,
+    "roz1077/true-crime-new-york-city-recomp": 444108498
   }
 }
