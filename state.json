@@ -140,7 +140,8 @@
     "roz1077/true-crime-new-york-city-recomp",
     "Sacrappy/HeyListen",
     "XiONDiGiTaL/EmblemWeave",
-    "itar3/Fable2RecompMac"
+    "itar3/Fable2RecompMac",
+    "scarface-decomp/scarface_decomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -314,7 +315,8 @@
     "roz1077/true-crime-new-york-city-recomp",
     "Sacrappy/HeyListen",
     "XiONDiGiTaL/EmblemWeave",
-    "itar3/Fable2RecompMac"
+    "itar3/Fable2RecompMac",
+    "scarface-decomp/scarface_decomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -379,10 +381,10 @@
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 435699257,
     "hardsilinder/FableDroid": 431727270,
     "n64hub/mario-party-recomp": 444076394,
-    "giacomozama/live-and-recompiled": 438157395,
+    "giacomozama/live-and-recompiled": 445314480,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
-    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 445225019,
+    "Fuuzetsu/tenchu-shinobi-gaisen-pc": 445298151,
     "daniel-madrid-07/weeping-of-the-empire": 437997572,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 444817180,
@@ -428,7 +430,7 @@
     "featureJosh/Recompia": 444939730,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 445279130,
+    "kayliox/transformers-armada-recomp": 445294806,
     "LAB0ULANGE/BurnoutLegends-Vita": 438119548,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 444939730,
@@ -448,10 +450,10 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp": 443689839,
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
-    "pixl27/ProjectReLink": 445221175,
+    "pixl27/ProjectReLink": 445308117,
     "roz1077/true-crime-new-york-city-recomp": 444108498,
     "Sacrappy/HeyListen": 445086368,
-    "XiONDiGiTaL/EmblemWeave": 443950535,
+    "XiONDiGiTaL/EmblemWeave": 445381331,
     "itar3/Fable2RecompMac": 444219676
   }
 }
