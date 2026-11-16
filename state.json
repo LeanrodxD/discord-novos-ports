@@ -146,7 +146,10 @@
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port",
     "MisterAlex95/Xrecomp",
     "bassobr/Far-Cry-Instincts-Predator-Recomp",
-    "MildRain479/PokePark-2-Wiicompiled"
+    "MildRain479/PokePark-2-Wiicompiled",
+    "eliasm4r/WondersBeyondRecomp",
+    "scarxity/kirby-forgotten-land-recompiled",
+    "Hotwire114/jailbreak-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -326,7 +329,10 @@
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port",
     "MisterAlex95/Xrecomp",
     "bassobr/Far-Cry-Instincts-Predator-Recomp",
-    "MildRain479/PokePark-2-Wiicompiled"
+    "MildRain479/PokePark-2-Wiicompiled",
+    "eliasm4r/WondersBeyondRecomp",
+    "scarxity/kirby-forgotten-land-recompiled",
+    "Hotwire114/jailbreak-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -372,7 +378,7 @@
     "Pallypots/ProjectOogie": 445678273,
     "victor-takai/rogue-galaxy-recomp": 443665966,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 444359657,
-    "Shagg88/COGBox": 446058198,
+    "Shagg88/COGBox": 446682942,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 443390927,
     "Thorhax/mk9-nx": 438195404,
@@ -460,16 +466,19 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp": 445523527,
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
-    "pixl27/ProjectReLink": 446281937,
+    "pixl27/ProjectReLink": 446632110,
     "roz1077/true-crime-new-york-city-recomp": 444108498,
-    "Sacrappy/HeyListen": 445086368,
-    "XiONDiGiTaL/EmblemWeave": 446583921,
+    "Sacrappy/HeyListen": 446670196,
+    "XiONDiGiTaL/EmblemWeave": 446684481,
     "itar3/Fable2RecompMac": 444219676,
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 446358569,
     "MildRain479/PokePark-2-Wiicompiled": 445819100,
-    "MisterAlex95/Xrecomp": 446579947,
-    "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 444229107,
-    "bassobr/Far-Cry-Instincts-Predator-Recomp": 445914795
+    "MisterAlex95/Xrecomp": 446657598,
+    "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
+    "bassobr/Far-Cry-Instincts-Predator-Recomp": 445914795,
+    "Hotwire114/jailbreak-recomp": 446438663,
+    "eliasm4r/WondersBeyondRecomp": 446496185,
+    "scarxity/kirby-forgotten-land-recompiled": 446240039
   }
 }
