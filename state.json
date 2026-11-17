@@ -152,7 +152,9 @@
     "Hotwire114/jailbreak-recomp",
     "finalpantasy/new-poke-snap-switch-recomp",
     "NicoWayne95/lcs-ps2-recomp",
-    "Lazaer-YZY/ff13-lr-recomp"
+    "Lazaer-YZY/ff13-lr-recomp",
+    "tyle-beep/Haiku",
+    "christiansmmc/BatmanBeginsRecomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -338,7 +340,9 @@
     "Hotwire114/jailbreak-recomp",
     "finalpantasy/new-poke-snap-switch-recomp",
     "NicoWayne95/lcs-ps2-recomp",
-    "Lazaer-YZY/ff13-lr-recomp"
+    "Lazaer-YZY/ff13-lr-recomp",
+    "tyle-beep/Haiku",
+    "christiansmmc/BatmanBeginsRecomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -379,12 +383,12 @@
     "tuancapoo/mgr-nx-deko": 422019235,
     "Flippage/gears-of-war-3-recomp": 429233581,
     "GranasSabre/Grandia3-PC": 445727115,
-    "ReRevvedRecomp/rerevved": 445740125,
+    "ReRevvedRecomp/rerevved": 447970829,
     "jillsandwich1998/reGH2": 435983148,
     "Pallypots/ProjectOogie": 445678273,
     "victor-takai/rogue-galaxy-recomp": 443665966,
     "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 444359657,
-    "Shagg88/COGBox": 446682942,
+    "Shagg88/COGBox": 447935375,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 443390927,
     "Thorhax/mk9-nx": 438195404,
@@ -449,13 +453,13 @@
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 446186077,
     "Goldoire/fefw-recomp": 444749183,
-    "featureJosh/Recompia": 447150272,
+    "featureJosh/Recompia": 447835776,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 446987406,
+    "kayliox/transformers-armada-recomp": 448022642,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 447150272,
+    "Dittobyte/Recompia": 447835776,
     "fasipe/Castlevania-COD-QOL": 447629633,
     "adriadam10/mkw-recomp": 447534556,
     "sebaz07/crashwoc-vita": 436404223,
@@ -473,7 +477,7 @@
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
     "pixl27/ProjectReLink": 446632110,
-    "roz1077/true-crime-new-york-city-recomp": 444108498,
+    "roz1077/true-crime-new-york-city-recomp": 448070784,
     "Sacrappy/HeyListen": 446670196,
     "XiONDiGiTaL/EmblemWeave": 447440818,
     "itar3/Fable2RecompMac": 444219676,
@@ -487,6 +491,8 @@
     "eliasm4r/WondersBeyondRecomp": 446901363,
     "scarxity/kirby-forgotten-land-recompiled": 447690662,
     "finalpantasy/new-poke-snap-switch-recomp": 446570008,
-    "Lazaer-YZY/ff13-lr-recomp": 446986537
+    "Lazaer-YZY/ff13-lr-recomp": 446986537,
+    "christiansmmc/BatmanBeginsRecomp": 441020872,
+    "tyle-beep/Haiku": 447851617
   }
 }
