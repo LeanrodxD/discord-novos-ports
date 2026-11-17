@@ -157,7 +157,8 @@
     "christiansmmc/BatmanBeginsRecomp",
     "weile10000/xc2-ns2-recomp",
     "finalpantasy/new-pokemon-snap-recomp",
-    "teclilla18/sonic-heroes-recomp"
+    "teclilla18/sonic-heroes-recomp",
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -348,7 +349,8 @@
     "christiansmmc/BatmanBeginsRecomp",
     "weile10000/xc2-ns2-recomp",
     "finalpantasy/new-pokemon-snap-recomp",
-    "teclilla18/sonic-heroes-recomp"
+    "teclilla18/sonic-heroes-recomp",
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -378,7 +380,7 @@
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 433524864,
-    "mamcjr/BOTWRecompAndroid": 447448111,
+    "mamcjr/BOTWRecompAndroid": 448971377,
     "mercurialw0rld/thebeatlesrockband-pcport": 434603919,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
@@ -482,15 +484,15 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp": 445523527,
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
-    "pixl27/ProjectReLink": 448116696,
+    "pixl27/ProjectReLink": 448992952,
     "roz1077/true-crime-new-york-city-recomp": 448836830,
     "Sacrappy/HeyListen": 448839799,
-    "XiONDiGiTaL/EmblemWeave": 448402780,
+    "XiONDiGiTaL/EmblemWeave": 448905145,
     "itar3/Fable2RecompMac": 444219676,
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 448741769,
+    "MisterAlex95/Xrecomp": 448942011,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
@@ -502,6 +504,7 @@
     "tyle-beep/Haiku": 447851617,
     "weile10000/xc2-ns2-recomp": 447239025,
     "finalpantasy/new-pokemon-snap-recomp": 448607828,
-    "teclilla18/sonic-heroes-recomp": 443557531
+    "teclilla18/sonic-heroes-recomp": 443557531,
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 448954179
   }
 }
