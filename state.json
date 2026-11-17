@@ -155,7 +155,8 @@
     "Lazaer-YZY/ff13-lr-recomp",
     "tyle-beep/Haiku",
     "christiansmmc/BatmanBeginsRecomp",
-    "weile10000/xc2-ns2-recomp"
+    "weile10000/xc2-ns2-recomp",
+    "finalpantasy/new-pokemon-snap-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -344,7 +345,8 @@
     "Lazaer-YZY/ff13-lr-recomp",
     "tyle-beep/Haiku",
     "christiansmmc/BatmanBeginsRecomp",
-    "weile10000/xc2-ns2-recomp"
+    "weile10000/xc2-ns2-recomp",
+    "finalpantasy/new-pokemon-snap-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -458,7 +460,7 @@
     "featureJosh/Recompia": 447835776,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 448022642,
+    "kayliox/transformers-armada-recomp": 448506688,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 447835776,
@@ -486,16 +488,17 @@
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 448364221,
+    "MisterAlex95/Xrecomp": 448556271,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
-    "Hotwire114/jailbreak-recomp": 447583610,
+    "Hotwire114/jailbreak-recomp": 448448419,
     "eliasm4r/WondersBeyondRecomp": 446901363,
     "scarxity/kirby-forgotten-land-recompiled": 447690662,
-    "finalpantasy/new-poke-snap-switch-recomp": 446570008,
+    "finalpantasy/new-poke-snap-switch-recomp": 448607828,
     "Lazaer-YZY/ff13-lr-recomp": 446986537,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 447851617,
-    "weile10000/xc2-ns2-recomp": 447239025
+    "weile10000/xc2-ns2-recomp": 447239025,
+    "finalpantasy/new-pokemon-snap-recomp": 448607828
   }
 }
