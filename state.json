@@ -158,7 +158,9 @@
     "weile10000/xc2-ns2-recomp",
     "finalpantasy/new-pokemon-snap-recomp",
     "teclilla18/sonic-heroes-recomp",
-    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation"
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation",
+    "AureoLightz/CitroWaker",
+    "PepperBelly01/AARoaS-XBERecomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -350,7 +352,9 @@
     "weile10000/xc2-ns2-recomp",
     "finalpantasy/new-pokemon-snap-recomp",
     "teclilla18/sonic-heroes-recomp",
-    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation"
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation",
+    "AureoLightz/CitroWaker",
+    "PepperBelly01/AARoaS-XBERecomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -436,7 +440,7 @@
     "RetroPulse03/WinBackRecomp": 437892184,
     "hk21x/007-agentunderfire-recomp": 446287087,
     "dvilelaf/battlestadium-don": 447237790,
-    "tmcleroy/soulcalibur2-recomp": 445843243,
+    "tmcleroy/soulcalibur2-recomp": 449178270,
     "exoteric33/ps2-native-recomp": 438993294,
     "Llamapixels/TenchuRFDRecomp": 433771876,
     "Peterson047/BLACK-XBEMultiplayer": 434018660,
@@ -464,7 +468,7 @@
     "featureJosh/Recompia": 447835776,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 448800997,
+    "kayliox/transformers-armada-recomp": 449056058,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 447835776,
@@ -492,19 +496,20 @@
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 448942011,
+    "MisterAlex95/Xrecomp": 449134355,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
     "eliasm4r/WondersBeyondRecomp": 446901363,
     "scarxity/kirby-forgotten-land-recompiled": 447690662,
     "finalpantasy/new-poke-snap-switch-recomp": 448607828,
-    "Lazaer-YZY/ff13-lr-recomp": 446986537,
+    "Lazaer-YZY/ff13-lr-recomp": 449197353,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 447851617,
     "weile10000/xc2-ns2-recomp": 447239025,
     "finalpantasy/new-pokemon-snap-recomp": 448607828,
     "teclilla18/sonic-heroes-recomp": 443557531,
-    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 448954179
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 448954179,
+    "PepperBelly01/AARoaS-XBERecomp": 446310169
   }
 }
