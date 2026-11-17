@@ -156,7 +156,8 @@
     "tyle-beep/Haiku",
     "christiansmmc/BatmanBeginsRecomp",
     "weile10000/xc2-ns2-recomp",
-    "finalpantasy/new-pokemon-snap-recomp"
+    "finalpantasy/new-pokemon-snap-recomp",
+    "teclilla18/sonic-heroes-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -346,7 +347,8 @@
     "tyle-beep/Haiku",
     "christiansmmc/BatmanBeginsRecomp",
     "weile10000/xc2-ns2-recomp",
-    "finalpantasy/new-pokemon-snap-recomp"
+    "finalpantasy/new-pokemon-snap-recomp",
+    "teclilla18/sonic-heroes-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -370,7 +372,7 @@
     "contatg/Def-Jam-Android-Native-Port": 448390656,
     "dfdx047/Zandatsu": 443761750,
     "elripalda/gta4-ps5": 439528387,
-    "enrique363/voldorium": 446432728,
+    "enrique363/voldorium": 448810078,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -446,7 +448,7 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 448137600,
-    "gamboozino/ng2recomp": 447682321,
+    "gamboozino/ng2recomp": 448755472,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
@@ -460,7 +462,7 @@
     "featureJosh/Recompia": 447835776,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 448506688,
+    "kayliox/transformers-armada-recomp": 448800997,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 447835776,
@@ -481,14 +483,14 @@
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
     "pixl27/ProjectReLink": 448116696,
-    "roz1077/true-crime-new-york-city-recomp": 448070784,
-    "Sacrappy/HeyListen": 446670196,
+    "roz1077/true-crime-new-york-city-recomp": 448836830,
+    "Sacrappy/HeyListen": 448839799,
     "XiONDiGiTaL/EmblemWeave": 448402780,
     "itar3/Fable2RecompMac": 444219676,
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 448556271,
+    "MisterAlex95/Xrecomp": 448741769,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
@@ -499,6 +501,7 @@
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 447851617,
     "weile10000/xc2-ns2-recomp": 447239025,
-    "finalpantasy/new-pokemon-snap-recomp": 448607828
+    "finalpantasy/new-pokemon-snap-recomp": 448607828,
+    "teclilla18/sonic-heroes-recomp": 443557531
   }
 }
