@@ -154,7 +154,8 @@
     "NicoWayne95/lcs-ps2-recomp",
     "Lazaer-YZY/ff13-lr-recomp",
     "tyle-beep/Haiku",
-    "christiansmmc/BatmanBeginsRecomp"
+    "christiansmmc/BatmanBeginsRecomp",
+    "weile10000/xc2-ns2-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -342,7 +343,8 @@
     "NicoWayne95/lcs-ps2-recomp",
     "Lazaer-YZY/ff13-lr-recomp",
     "tyle-beep/Haiku",
-    "christiansmmc/BatmanBeginsRecomp"
+    "christiansmmc/BatmanBeginsRecomp",
+    "weile10000/xc2-ns2-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -441,7 +443,7 @@
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
-    "MildRain479/PokePark-Wiicompiled": 446253950,
+    "MildRain479/PokePark-Wiicompiled": 448137600,
     "gamboozino/ng2recomp": 447682321,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
@@ -451,7 +453,7 @@
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 446484926,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
-    "Lucas-blip-png/dkb-pc-recomp": 446186077,
+    "Lucas-blip-png/dkb-pc-recomp": 448121255,
     "Goldoire/fefw-recomp": 444749183,
     "featureJosh/Recompia": 447835776,
     "saulob/el-chavo-kart-recompiled": 437274742,
@@ -460,14 +462,14 @@
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 447835776,
-    "fasipe/Castlevania-COD-QOL": 447629633,
+    "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 447534556,
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 447577386,
     "vfjoo888/SuperWonders": 446427758,
     "LomoXSoft/AfroSamuraiRecomp": 446569674,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
-    "aoxzh/bayo3-recomp": 447598519,
+    "aoxzh/bayo3-recomp": 448248855,
     "SerenityG4K/SpaceAnimalsRecomp": 444864549,
     "kayochiaradia/mtf-recomp": 442403169,
     "Ieatzcrayonz/MarioTennisRecomp": 438526413,
@@ -476,14 +478,14 @@
     "bugcoder00/FarCryInstinctsPredatorRecomp": 445523527,
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
-    "pixl27/ProjectReLink": 446632110,
+    "pixl27/ProjectReLink": 448116696,
     "roz1077/true-crime-new-york-city-recomp": 448070784,
     "Sacrappy/HeyListen": 446670196,
     "XiONDiGiTaL/EmblemWeave": 447440818,
     "itar3/Fable2RecompMac": 444219676,
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 447307410,
-    "MildRain479/PokePark-2-Wiicompiled": 445819100,
+    "MildRain479/PokePark-2-Wiicompiled": 448137857,
     "MisterAlex95/Xrecomp": 447576646,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
@@ -493,6 +495,7 @@
     "finalpantasy/new-poke-snap-switch-recomp": 446570008,
     "Lazaer-YZY/ff13-lr-recomp": 446986537,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
-    "tyle-beep/Haiku": 447851617
+    "tyle-beep/Haiku": 447851617,
+    "weile10000/xc2-ns2-recomp": 447239025
   }
 }
