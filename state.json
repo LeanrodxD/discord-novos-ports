@@ -160,7 +160,9 @@
     "teclilla18/sonic-heroes-recomp",
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation",
     "AureoLightz/CitroWaker",
-    "PepperBelly01/AARoaS-XBERecomp"
+    "PepperBelly01/AARoaS-XBERecomp",
+    "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
+    "Berny23/slingshot-animals-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -354,7 +356,9 @@
     "teclilla18/sonic-heroes-recomp",
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation",
     "AureoLightz/CitroWaker",
-    "PepperBelly01/AARoaS-XBERecomp"
+    "PepperBelly01/AARoaS-XBERecomp",
+    "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
+    "Berny23/slingshot-animals-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -367,7 +371,7 @@
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
     "Mango77x/MHForever": 445265397,
-    "MysteriousAeon/rayman3-hd-recompiled": 439794056,
+    "MysteriousAeon/rayman3-hd-recompiled": 449317381,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 445471155,
     "Nycolazs/EoWRecomp": 419400676,
@@ -465,13 +469,13 @@
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 448121255,
     "Goldoire/fefw-recomp": 444749183,
-    "featureJosh/Recompia": 447835776,
+    "featureJosh/Recompia": 449364151,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
     "kayliox/transformers-armada-recomp": 449056058,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 447835776,
+    "Dittobyte/Recompia": 449364151,
     "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 447534556,
     "sebaz07/crashwoc-vita": 436404223,
@@ -496,7 +500,7 @@
     "STS78721/MKW-THWOMP": 446021582,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 449134355,
+    "MisterAlex95/Xrecomp": 449264429,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
@@ -506,10 +510,13 @@
     "Lazaer-YZY/ff13-lr-recomp": 449197353,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 447851617,
-    "weile10000/xc2-ns2-recomp": 447239025,
+    "weile10000/xc2-ns2-recomp": 449280906,
     "finalpantasy/new-pokemon-snap-recomp": 448607828,
     "teclilla18/sonic-heroes-recomp": 443557531,
-    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 448954179,
-    "PepperBelly01/AARoaS-XBERecomp": 446310169
+    "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 449245257,
+    "PepperBelly01/AARoaS-XBERecomp": 446310169,
+    "AureoLightz/CitroWaker": 449087258,
+    "Berny23/slingshot-animals-recomp": 449363297,
+    "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025
   }
 }
