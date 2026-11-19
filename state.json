@@ -162,7 +162,8 @@
     "AureoLightz/CitroWaker",
     "PepperBelly01/AARoaS-XBERecomp",
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
-    "Berny23/slingshot-animals-recomp"
+    "Berny23/slingshot-animals-recomp",
+    "schuler-ph/nsmbw-switch"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -358,7 +359,8 @@
     "AureoLightz/CitroWaker",
     "PepperBelly01/AARoaS-XBERecomp",
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
-    "Berny23/slingshot-animals-recomp"
+    "Berny23/slingshot-animals-recomp",
+    "schuler-ph/nsmbw-switch"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -458,7 +460,7 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 448137600,
-    "gamboozino/ng2recomp": 450325306,
+    "gamboozino/ng2recomp": 450736224,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
@@ -472,7 +474,7 @@
     "featureJosh/Recompia": 450191549,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 450298974,
+    "kayliox/transformers-armada-recomp": 450735204,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 450191549,
@@ -493,14 +495,14 @@
     "arcanite24/lavender-shift": 442221029,
     "DivxPlays/stilwater-recompiled": 440073844,
     "pixl27/ProjectReLink": 448992952,
-    "roz1077/true-crime-new-york-city-recomp": 449513004,
+    "roz1077/true-crime-new-york-city-recomp": 450715636,
     "Sacrappy/HeyListen": 450017425,
     "XiONDiGiTaL/EmblemWeave": 450409573,
     "itar3/Fable2RecompMac": 444219676,
     "STS78721/MKW-THWOMP": 450051140,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 450482231,
+    "MisterAlex95/Xrecomp": 450648326,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
@@ -517,6 +519,8 @@
     "PepperBelly01/AARoaS-XBERecomp": 446310169,
     "AureoLightz/CitroWaker": 449505787,
     "Berny23/slingshot-animals-recomp": 450276747,
-    "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025
+    "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
+    "NicoWayne95/lcs-ps2-recomp": 450615481,
+    "schuler-ph/nsmbw-switch": 447419054
   }
 }
