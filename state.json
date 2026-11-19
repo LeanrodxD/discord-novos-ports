@@ -163,7 +163,8 @@
     "PepperBelly01/AARoaS-XBERecomp",
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
     "Berny23/slingshot-animals-recomp",
-    "schuler-ph/nsmbw-switch"
+    "schuler-ph/nsmbw-switch",
+    "Okxmir/new-super-mario-bros-2-recompiled"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -360,7 +361,8 @@
     "PepperBelly01/AARoaS-XBERecomp",
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
     "Berny23/slingshot-animals-recomp",
-    "schuler-ph/nsmbw-switch"
+    "schuler-ph/nsmbw-switch",
+    "Okxmir/new-super-mario-bros-2-recompiled"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -474,7 +476,7 @@
     "featureJosh/Recompia": 450864065,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
-    "kayliox/transformers-armada-recomp": 450890419,
+    "kayliox/transformers-armada-recomp": 451052225,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 450864065,
@@ -502,7 +504,7 @@
     "STS78721/MKW-THWOMP": 450051140,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 450648326,
+    "MisterAlex95/Xrecomp": 451061104,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 448448419,
@@ -512,7 +514,7 @@
     "Lazaer-YZY/ff13-lr-recomp": 449197353,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 450752892,
-    "weile10000/xc2-ns2-recomp": 450188666,
+    "weile10000/xc2-ns2-recomp": 450959365,
     "finalpantasy/new-pokemon-snap-recomp": 450278738,
     "teclilla18/sonic-heroes-recomp": 443557531,
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 449245257,
@@ -521,6 +523,7 @@
     "Berny23/slingshot-animals-recomp": 450276747,
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
     "NicoWayne95/lcs-ps2-recomp": 450615481,
-    "schuler-ph/nsmbw-switch": 447419054
+    "schuler-ph/nsmbw-switch": 447419054,
+    "Okxmir/new-super-mario-bros-2-recompiled": 449122348
   }
 }
