@@ -164,7 +164,8 @@
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
     "Berny23/slingshot-animals-recomp",
     "schuler-ph/nsmbw-switch",
-    "Okxmir/new-super-mario-bros-2-recompiled"
+    "Okxmir/new-super-mario-bros-2-recompiled",
+    "Lazaer-YZY/ds2-sotfs-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -362,7 +363,8 @@
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT",
     "Berny23/slingshot-animals-recomp",
     "schuler-ph/nsmbw-switch",
-    "Okxmir/new-super-mario-bros-2-recompiled"
+    "Okxmir/new-super-mario-bros-2-recompiled",
+    "Lazaer-YZY/ds2-sotfs-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -386,7 +388,7 @@
     "contatg/Def-Jam-Android-Native-Port": 448390656,
     "dfdx047/Zandatsu": 443761750,
     "elripalda/gta4-ps5": 439528387,
-    "enrique363/voldorium": 450293756,
+    "enrique363/voldorium": 451468440,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -524,6 +526,7 @@
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
     "NicoWayne95/lcs-ps2-recomp": 450615481,
     "schuler-ph/nsmbw-switch": 447419054,
-    "Okxmir/new-super-mario-bros-2-recompiled": 449122348
+    "Okxmir/new-super-mario-bros-2-recompiled": 449122348,
+    "Lazaer-YZY/ds2-sotfs-recomp": 450745545
   }
 }
