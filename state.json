@@ -167,7 +167,10 @@
     "Okxmir/new-super-mario-bros-2-recompiled",
     "Lazaer-YZY/ds2-sotfs-recomp",
     "ChanseyIsTheBest/blur-nx",
-    "batinium/gta-stories-recompiled"
+    "batinium/gta-stories-recompiled",
+    "Romalu86/NFSHP2_NativePS2Port",
+    "Raihwy3/Conker3DSRecomp",
+    "Mazillion/MechAssault2-PC-Recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -368,7 +371,10 @@
     "Okxmir/new-super-mario-bros-2-recompiled",
     "Lazaer-YZY/ds2-sotfs-recomp",
     "ChanseyIsTheBest/blur-nx",
-    "batinium/gta-stories-recompiled"
+    "batinium/gta-stories-recompiled",
+    "Romalu86/NFSHP2_NativePS2Port",
+    "Raihwy3/Conker3DSRecomp",
+    "Mazillion/MechAssault2-PC-Recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -468,14 +474,14 @@
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
     "MildRain479/PokePark-Wiicompiled": 448137600,
-    "gamboozino/ng2recomp": 450736224,
+    "gamboozino/ng2recomp": 451994319,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
     "xdivorex-gif/spiderman-2002-pc": 434651283,
     "bassobr/Far-Cry-Instincts-Recomp": 444587330,
     "NotRexed/Hookshot": 441106443,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 446484926,
+    "cheviman/tmnt-port": 452011424,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 450455415,
     "Goldoire/fefw-recomp": 444749183,
@@ -489,7 +495,7 @@
     "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 451251920,
     "sebaz07/crashwoc-vita": 436404223,
-    "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 447577386,
+    "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 452093478,
     "vfjoo888/SuperWonders": 451855000,
     "LomoXSoft/AfroSamuraiRecomp": 446569674,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
@@ -519,7 +525,7 @@
     "finalpantasy/new-poke-snap-switch-recomp": 450278738,
     "Lazaer-YZY/ff13-lr-recomp": 449197353,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
-    "tyle-beep/Haiku": 451155394,
+    "tyle-beep/Haiku": 451989961,
     "weile10000/xc2-ns2-recomp": 450959365,
     "finalpantasy/new-pokemon-snap-recomp": 450278738,
     "teclilla18/sonic-heroes-recomp": 443557531,
@@ -533,6 +539,9 @@
     "Okxmir/new-super-mario-bros-2-recompiled": 449122348,
     "Lazaer-YZY/ds2-sotfs-recomp": 450745545,
     "ChanseyIsTheBest/blur-nx": 449961711,
-    "batinium/gta-stories-recompiled": 451622144
+    "batinium/gta-stories-recompiled": 451622144,
+    "Mazillion/MechAssault2-PC-Recomp": 451351656,
+    "Raihwy3/Conker3DSRecomp": 450808614,
+    "Romalu86/NFSHP2_NativePS2Port": 451253222
   }
 }
