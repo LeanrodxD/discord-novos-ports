@@ -170,7 +170,8 @@
     "batinium/gta-stories-recompiled",
     "Romalu86/NFSHP2_NativePS2Port",
     "Raihwy3/Conker3DSRecomp",
-    "Mazillion/MechAssault2-PC-Recomp"
+    "Mazillion/MechAssault2-PC-Recomp",
+    "CowKillers/darkwatch-android"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -374,7 +375,8 @@
     "batinium/gta-stories-recompiled",
     "Romalu86/NFSHP2_NativePS2Port",
     "Raihwy3/Conker3DSRecomp",
-    "Mazillion/MechAssault2-PC-Recomp"
+    "Mazillion/MechAssault2-PC-Recomp",
+    "CowKillers/darkwatch-android"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -481,7 +483,7 @@
     "bassobr/Far-Cry-Instincts-Recomp": 444587330,
     "NotRexed/Hookshot": 441106443,
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
-    "cheviman/tmnt-port": 452011424,
+    "cheviman/tmnt-port": 452181693,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 450455415,
     "Goldoire/fefw-recomp": 444749183,
@@ -516,7 +518,7 @@
     "STS78721/MKW-THWOMP": 451687619,
     "Elie-0066/SPR-Recomp-Project": 448389293,
     "MildRain479/PokePark-2-Wiicompiled": 448137857,
-    "MisterAlex95/Xrecomp": 451061104,
+    "MisterAlex95/Xrecomp": 452139176,
     "ZuanCrisp/NX2Navi-Zelda-OOT-Port": 446600421,
     "bassobr/Far-Cry-Instincts-Predator-Recomp": 447381581,
     "Hotwire114/jailbreak-recomp": 451846276,
@@ -541,7 +543,8 @@
     "ChanseyIsTheBest/blur-nx": 449961711,
     "batinium/gta-stories-recompiled": 451622144,
     "Mazillion/MechAssault2-PC-Recomp": 451351656,
-    "Raihwy3/Conker3DSRecomp": 450808614,
-    "Romalu86/NFSHP2_NativePS2Port": 451253222
+    "Raihwy3/Conker3DSRecomp": 452226745,
+    "Romalu86/NFSHP2_NativePS2Port": 451253222,
+    "CowKillers/darkwatch-android": 451009126
   }
 }
