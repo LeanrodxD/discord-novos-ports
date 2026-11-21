@@ -171,7 +171,11 @@
     "Romalu86/NFSHP2_NativePS2Port",
     "Raihwy3/Conker3DSRecomp",
     "Mazillion/MechAssault2-PC-Recomp",
-    "CowKillers/darkwatch-android"
+    "CowKillers/darkwatch-android",
+    "recomp-nx/fnxf_xiii",
+    "MTG9T4/strikers-recomp",
+    "recomp-nx/tw2de_nx",
+    "iCosiSenpai/age-of-decomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -376,7 +380,11 @@
     "Romalu86/NFSHP2_NativePS2Port",
     "Raihwy3/Conker3DSRecomp",
     "Mazillion/MechAssault2-PC-Recomp",
-    "CowKillers/darkwatch-android"
+    "CowKillers/darkwatch-android",
+    "recomp-nx/fnxf_xiii",
+    "MTG9T4/strikers-recomp",
+    "recomp-nx/tw2de_nx",
+    "iCosiSenpai/age-of-decomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -438,7 +446,7 @@
     "Vnnc1/gow-native-pc": 444989151,
     "TekRantGaming/cartoon-network-racing-recompiled": 429320208,
     "danielalves96/gow-pc-port": 443744396,
-    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 435699257,
+    "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 453262442,
     "hardsilinder/FableDroid": 431727270,
     "n64hub/mario-party-recomp": 445662729,
     "giacomozama/live-and-recompiled": 453021491,
@@ -487,13 +495,13 @@
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 452566447,
     "Goldoire/fefw-recomp": 444749183,
-    "featureJosh/Recompia": 452876463,
+    "featureJosh/Recompia": 453318108,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 444951527,
     "kayliox/transformers-armada-recomp": 452907871,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 452876463,
+    "Dittobyte/Recompia": 453318108,
     "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 452974591,
     "sebaz07/crashwoc-vita": 436404223,
@@ -545,6 +553,10 @@
     "Mazillion/MechAssault2-PC-Recomp": 452264767,
     "Raihwy3/Conker3DSRecomp": 452226745,
     "Romalu86/NFSHP2_NativePS2Port": 452807623,
-    "CowKillers/darkwatch-android": 451009126
+    "CowKillers/darkwatch-android": 451009126,
+    "MTG9T4/strikers-recomp": 447415453,
+    "iCosiSenpai/age-of-decomp": 450811740,
+    "recomp-nx/fnxf_xiii": 452690010,
+    "recomp-nx/tw2de_nx": 452678981
   }
 }
