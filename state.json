@@ -175,7 +175,8 @@
     "recomp-nx/fnxf_xiii",
     "MTG9T4/strikers-recomp",
     "recomp-nx/tw2de_nx",
-    "iCosiSenpai/age-of-decomp"
+    "iCosiSenpai/age-of-decomp",
+    "R0Y00/Xbox2Windows"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -384,7 +385,8 @@
     "recomp-nx/fnxf_xiii",
     "MTG9T4/strikers-recomp",
     "recomp-nx/tw2de_nx",
-    "iCosiSenpai/age-of-decomp"
+    "iCosiSenpai/age-of-decomp",
+    "R0Y00/Xbox2Windows"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -414,7 +416,7 @@
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
     "josiahg2502-glitch/OogiesRevengeRecompiled": 421925087,
     "josiahg2502-glitch/Smash4PC": 433524864,
-    "mamcjr/BOTWRecompAndroid": 453438691,
+    "mamcjr/BOTWRecompAndroid": 453771919,
     "mercurialw0rld/thebeatlesrockband-pcport": 434603919,
     "nefariousjosiah/WWE-SVR2007-RECOMP": 422757601,
     "ryderclanky/BotW-Native": 429933502,
@@ -532,19 +534,19 @@
     "Hotwire114/jailbreak-recomp": 451846276,
     "eliasm4r/WondersBeyondRecomp": 446901363,
     "scarxity/kirby-forgotten-land-recompiled": 452708311,
-    "finalpantasy/new-poke-snap-switch-recomp": 450278738,
+    "finalpantasy/new-poke-snap-switch-recomp": 453767379,
     "Lazaer-YZY/ff13-lr-recomp": 453437901,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 453482491,
     "weile10000/xc2-ns2-recomp": 453148575,
-    "finalpantasy/new-pokemon-snap-recomp": 450278738,
+    "finalpantasy/new-pokemon-snap-recomp": 453767379,
     "teclilla18/sonic-heroes-recomp": 443557531,
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 449245257,
     "PepperBelly01/AARoaS-XBERecomp": 450764848,
     "AureoLightz/CitroWaker": 449505787,
     "Berny23/slingshot-animals-recomp": 450276747,
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
-    "NicoWayne95/lcs-ps2-recomp": 453189195,
+    "NicoWayne95/lcs-ps2-recomp": 453724759,
     "schuler-ph/nsmbw-switch": 447419054,
     "Okxmir/new-super-mario-bros-2-recompiled": 449122348,
     "Lazaer-YZY/ds2-sotfs-recomp": 453522032,
@@ -557,6 +559,7 @@
     "MTG9T4/strikers-recomp": 447415453,
     "iCosiSenpai/age-of-decomp": 450811740,
     "recomp-nx/fnxf_xiii": 452690010,
-    "recomp-nx/tw2de_nx": 452678981
+    "recomp-nx/tw2de_nx": 452678981,
+    "R0Y00/Xbox2Windows": 453168296
   }
 }
