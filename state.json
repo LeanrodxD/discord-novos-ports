@@ -181,7 +181,9 @@
     "ItsNotRexed/Hookshot",
     "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
     "VoltTMC/SonicColorsRecomp",
-    "ranveersoni98/Xenora"
+    "ranveersoni98/Xenora",
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+    "evilHazzarD/ReHoMM4"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -396,7 +398,9 @@
     "ItsNotRexed/Hookshot",
     "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
     "VoltTMC/SonicColorsRecomp",
-    "ranveersoni98/Xenora"
+    "ranveersoni98/Xenora",
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
+    "evilHazzarD/ReHoMM4"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -409,7 +413,7 @@
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
     "Mango77x/MHForever": 453645907,
-    "MysteriousAeon/rayman3-hd-recompiled": 449317381,
+    "MysteriousAeon/rayman3-hd-recompiled": 454659197,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 445471155,
     "Nycolazs/EoWRecomp": 419400676,
@@ -518,7 +522,7 @@
     "adriadam10/mkw-recomp": 453916431,
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 453544061,
-    "vfjoo888/SuperWonders": 454029520,
+    "vfjoo888/SuperWonders": 454574037,
     "LomoXSoft/AfroSamuraiRecomp": 454148446,
     "astromen2009/Syphon-Filter-3-pc-port": 439080094,
     "aoxzh/bayo3-recomp": 453854666,
@@ -531,7 +535,7 @@
     "arcanite24/lavender-shift": 450898453,
     "DivxPlays/stilwater-recompiled": 440073844,
     "pixl27/ProjectReLink": 454276250,
-    "roz1077/true-crime-new-york-city-recomp": 450715636,
+    "roz1077/true-crime-new-york-city-recomp": 454652100,
     "Sacrappy/HeyListen": 452652442,
     "XiONDiGiTaL/EmblemWeave": 453114327,
     "itar3/Fable2RecompMac": 444219676,
@@ -572,6 +576,8 @@
     "recomp-nx/tw2de_nx": 452678981,
     "R0Y00/Xbox2Windows": 453168296,
     "ItsNotRexed/Hookshot": 453855112,
-    "VoltTMC/SonicColorsRecomp": 454132817
+    "VoltTMC/SonicColorsRecomp": 454132817,
+    "evilHazzarD/ReHoMM4": 454648655,
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 454448987
   }
 }
