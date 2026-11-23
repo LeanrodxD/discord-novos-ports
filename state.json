@@ -184,7 +184,9 @@
     "ranveersoni98/Xenora",
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
     "evilHazzarD/ReHoMM4",
-    "Anthonyp85/TheSuffering-Recomp"
+    "Anthonyp85/TheSuffering-Recomp",
+    "pixl27/ProjectReCity",
+    "ThatRecompDev/five-star-recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -402,7 +404,9 @@
     "ranveersoni98/Xenora",
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
     "evilHazzarD/ReHoMM4",
-    "Anthonyp85/TheSuffering-Recomp"
+    "Anthonyp85/TheSuffering-Recomp",
+    "pixl27/ProjectReCity",
+    "ThatRecompDev/five-star-recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -415,7 +419,7 @@
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
     "Mango77x/MHForever": 453645907,
-    "MysteriousAeon/rayman3-hd-recompiled": 454659197,
+    "MysteriousAeon/rayman3-hd-recompiled": 455912153,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 445471155,
     "Nycolazs/EoWRecomp": 419400676,
@@ -443,7 +447,7 @@
     "tuancapoo/mgr-nx-deko": 422019235,
     "Flippage/gears-of-war-3-recomp": 429233581,
     "GranasSabre/Grandia3-PC": 454111369,
-    "ReRevvedRecomp/rerevved": 452394235,
+    "ReRevvedRecomp/rerevved": 455940418,
     "jillsandwich1998/reGH2": 435983148,
     "Pallypots/ProjectOogie": 445678273,
     "victor-takai/rogue-galaxy-recomp": 443665966,
@@ -466,7 +470,7 @@
     "danielalves96/gow-pc-port": 443744396,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 453262442,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 455619384,
+    "n64hub/mario-party-recomp": 456010394,
     "giacomozama/live-and-recompiled": 453021491,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
@@ -474,8 +478,8 @@
     "daniel-madrid-07/weeping-of-the-empire": 437997572,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 450167920,
-    "n64hub/mario-party-2-recomp": 449740510,
-    "n64hub/mario-party-3-recomp": 454880714,
+    "n64hub/mario-party-2-recomp": 455859529,
+    "n64hub/mario-party-3-recomp": 455970267,
     "Mabec-games/Conker-Recomped-and-Reloaded": 446815345,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 449897816,
@@ -501,7 +505,7 @@
     "UwUCammie/Burn3": 432848614,
     "drakolordx7/switch2-recomp": 434393044,
     "dennisabalo18-bot/red-dead-revolver-pc": 438124026,
-    "MildRain479/PokePark-Wiicompiled": 448137600,
+    "MildRain479/PokePark-Wiicompiled": 455972237,
     "gamboozino/ng2recomp": 455600488,
     "projectedan/TigerWoods2004-XBE-Recomp": 434611421,
     "DivxPlays/redline-recompiled": 443687150,
@@ -573,14 +577,14 @@
     "Romalu86/NFSHP2_NativePS2Port": 452807623,
     "CowKillers/darkwatch-android": 451009126,
     "MTG9T4/strikers-recomp": 454890973,
-    "iCosiSenpai/age-of-decomp": 450811740,
+    "iCosiSenpai/age-of-decomp": 455955324,
     "recomp-nx/fnxf_xiii": 452690010,
     "recomp-nx/tw2de_nx": 452678981,
     "R0Y00/Xbox2Windows": 453168296,
     "ItsNotRexed/Hookshot": 453855112,
     "VoltTMC/SonicColorsRecomp": 454132817,
-    "evilHazzarD/ReHoMM4": 454648655,
-    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 454896282,
+    "evilHazzarD/ReHoMM4": 456012008,
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 456012393,
     "Anthonyp85/TheSuffering-Recomp": 455139322
   }
 }
