@@ -183,7 +183,8 @@
     "VoltTMC/SonicColorsRecomp",
     "ranveersoni98/Xenora",
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
-    "evilHazzarD/ReHoMM4"
+    "evilHazzarD/ReHoMM4",
+    "Anthonyp85/TheSuffering-Recomp"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -400,7 +401,8 @@
     "VoltTMC/SonicColorsRecomp",
     "ranveersoni98/Xenora",
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo",
-    "evilHazzarD/ReHoMM4"
+    "evilHazzarD/ReHoMM4",
+    "Anthonyp85/TheSuffering-Recomp"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -514,12 +516,12 @@
     "featureJosh/Recompia": 454856631,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 454331232,
-    "kayliox/transformers-armada-recomp": 455172571,
+    "kayliox/transformers-armada-recomp": 455806911,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 454856631,
     "fasipe/Castlevania-COD-QOL": 448135491,
-    "adriadam10/mkw-recomp": 453916431,
+    "adriadam10/mkw-recomp": 455687980,
     "sebaz07/crashwoc-vita": 436404223,
     "Destinity13/TimeSplitters-2-Native-Linux-Recomp": 453544061,
     "vfjoo888/SuperWonders": 454574037,
@@ -529,13 +531,13 @@
     "SerenityG4K/SpaceAnimalsRecomp": 453878303,
     "kayochiaradia/mtf-recomp": 442403169,
     "Ieatzcrayonz/MarioTennisRecomp": 453870836,
-    "Guuzzeji/otogi-xunchain": 455133134,
+    "Guuzzeji/otogi-xunchain": 455776294,
     "wiluss/btvs-recomp": 446126394,
     "bugcoder00/FarCryInstinctsPredatorRecomp": 452822924,
     "arcanite24/lavender-shift": 450898453,
     "DivxPlays/stilwater-recompiled": 440073844,
     "pixl27/ProjectReLink": 454948653,
-    "roz1077/true-crime-new-york-city-recomp": 454652100,
+    "roz1077/true-crime-new-york-city-recomp": 455768031,
     "Sacrappy/HeyListen": 452652442,
     "XiONDiGiTaL/EmblemWeave": 453114327,
     "itar3/Fable2RecompMac": 444219676,
@@ -552,13 +554,13 @@
     "Lazaer-YZY/ff13-lr-recomp": 454899746,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 453482491,
-    "weile10000/xc2-ns2-recomp": 455244843,
+    "weile10000/xc2-ns2-recomp": 455816226,
     "finalpantasy/new-pokemon-snap-recomp": 453767379,
     "teclilla18/sonic-heroes-recomp": 443557531,
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 449245257,
     "PepperBelly01/AARoaS-XBERecomp": 450764848,
     "AureoLightz/CitroWaker": 449505787,
-    "Berny23/slingshot-animals-recomp": 450276747,
+    "Berny23/slingshot-animals-recomp": 455661226,
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
     "NicoWayne95/lcs-ps2-recomp": 454031816,
     "schuler-ph/nsmbw-switch": 454717753,
@@ -578,6 +580,7 @@
     "ItsNotRexed/Hookshot": 453855112,
     "VoltTMC/SonicColorsRecomp": 454132817,
     "evilHazzarD/ReHoMM4": 454648655,
-    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 454896282
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 454896282,
+    "Anthonyp85/TheSuffering-Recomp": 455139322
   }
 }
