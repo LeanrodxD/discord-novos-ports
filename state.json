@@ -190,7 +190,8 @@
     "ubiquitarianism/leonida",
     "ProjectLeonidaL/leonida",
     "IAmNotSiob/leonida-ce",
-    "KijenP/nier-gestalt-port"
+    "KijenP/nier-gestalt-port",
+    "ZigZagBoi1/ScarlettPort"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -414,7 +415,8 @@
     "ubiquitarianism/leonida",
     "ProjectLeonidaL/leonida",
     "IAmNotSiob/leonida-ce",
-    "KijenP/nier-gestalt-port"
+    "KijenP/nier-gestalt-port",
+    "ZigZagBoi1/ScarlettPort"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -459,7 +461,7 @@
     "jillsandwich1998/reGH2": 435983148,
     "Pallypots/ProjectOogie": 445678273,
     "victor-takai/rogue-galaxy-recomp": 443665966,
-    "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 449458283,
+    "CaiusCodes/Perfect-Dark-XBLA-PC-Recomp": 456730870,
     "Shagg88/COGBox": 453921780,
     "projectedan/McRae05-XBE-Recomp": 426422730,
     "Odrannnn/MetroidPrime2Port": 443390927,
@@ -478,14 +480,14 @@
     "danielalves96/gow-pc-port": 443744396,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 453262442,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 456570228,
+    "n64hub/mario-party-recomp": 456607016,
     "giacomozama/live-and-recompiled": 453021491,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
     "Fuuzetsu/tenchu-shinobi-gaisen-pc": 446386795,
     "daniel-madrid-07/weeping-of-the-empire": 437997572,
     "N900x4/HauntingGround-Recomp-Project": 430244582,
-    "almost-drowned-rat/THPS2X-Recompiled": 456381753,
+    "almost-drowned-rat/THPS2X-Recompiled": 456732286,
     "n64hub/mario-party-2-recomp": 455859529,
     "n64hub/mario-party-3-recomp": 456549086,
     "Mabec-games/Conker-Recomped-and-Reloaded": 446815345,
@@ -523,12 +525,12 @@
     "SeveerJ/Ghoulies_PC_Recomp": 436821836,
     "cheviman/tmnt-port": 453845879,
     "MattyKen619/Pikmin-PS3-Port": 430991135,
-    "Lucas-blip-png/dkb-pc-recomp": 452566447,
+    "Lucas-blip-png/dkb-pc-recomp": 456660761,
     "Goldoire/fefw-recomp": 444749183,
     "featureJosh/Recompia": 456466481,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 454331232,
-    "kayliox/transformers-armada-recomp": 455806911,
+    "kayliox/transformers-armada-recomp": 456644925,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
     "Dittobyte/Recompia": 456466481,
@@ -594,6 +596,7 @@
     "evilHazzarD/ReHoMM4": 456518917,
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 456248826,
     "Anthonyp85/TheSuffering-Recomp": 456248813,
-    "KijenP/nier-gestalt-port": 455885126
+    "KijenP/nier-gestalt-port": 455885126,
+    "ZigZagBoi1/ScarlettPort": 456747598
   }
 }
