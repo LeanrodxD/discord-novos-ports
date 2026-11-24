@@ -191,7 +191,9 @@
     "ProjectLeonidaL/leonida",
     "IAmNotSiob/leonida-ce",
     "KijenP/nier-gestalt-port",
-    "ZigZagBoi1/ScarlettPort"
+    "ZigZagBoi1/ScarlettPort",
+    "virtualonno/lain",
+    "Kendoismebutmaybenot/wondershot"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -416,7 +418,9 @@
     "ProjectLeonidaL/leonida",
     "IAmNotSiob/leonida-ce",
     "KijenP/nier-gestalt-port",
-    "ZigZagBoi1/ScarlettPort"
+    "ZigZagBoi1/ScarlettPort",
+    "virtualonno/lain",
+    "Kendoismebutmaybenot/wondershot"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -428,7 +432,7 @@
     "HarbourMasters/SpaghettiKart": 290115373,
     "HarbourMasters/Starship": 220828885,
     "IAndrewJJ/EnchantedArmsRecomp": 422271588,
-    "Mango77x/MHForever": 453645907,
+    "Mango77x/MHForever": 457242096,
     "MysteriousAeon/rayman3-hd-recompiled": 455912153,
     "N64Recomp/N64Recomp": 216363548,
     "NoRain211/doa2u-re": 445471155,
@@ -440,7 +444,7 @@
     "contatg/Def-Jam-Android-Native-Port": 448390656,
     "dfdx047/Zandatsu": 454861512,
     "elripalda/gta4-ps5": 439528387,
-    "enrique363/voldorium": 456280400,
+    "enrique363/voldorium": 457337697,
     "griches/PS5_MarioGalaxy": 419723870,
     "hedge-dev/UnleashedRecomp": 210203373,
     "josiahg2502-glitch/BrawlRecompiled": 429777137,
@@ -492,7 +496,7 @@
     "n64hub/mario-party-3-recomp": 456549086,
     "Mabec-games/Conker-Recomped-and-Reloaded": 446815345,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
-    "Adolini1715/Concrete-Jungle-PC": 449897816,
+    "Adolini1715/Concrete-Jungle-PC": 457350836,
     "thatcalikid760/SCDA360pcport": 431982392,
     "shaneomac1337/Top-Spin-4-Recomp": 437398314,
     "KamiTK2/openNG2": 435660426,
@@ -527,13 +531,13 @@
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 456660761,
     "Goldoire/fefw-recomp": 444749183,
-    "featureJosh/Recompia": 456466481,
+    "featureJosh/Recompia": 457358927,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 457091401,
     "kayliox/transformers-armada-recomp": 456644925,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 456466481,
+    "Dittobyte/Recompia": 457358927,
     "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 455687980,
     "sebaz07/crashwoc-vita": 436404223,
@@ -576,7 +580,7 @@
     "AureoLightz/CitroWaker": 449505787,
     "Berny23/slingshot-animals-recomp": 456901328,
     "gerisson1996/RESIDENT-CODE-VERONICA-NX-PORT": 447199025,
-    "NicoWayne95/lcs-ps2-recomp": 454031816,
+    "NicoWayne95/lcs-ps2-recomp": 457283461,
     "schuler-ph/nsmbw-switch": 454717753,
     "Okxmir/new-super-mario-bros-2-recompiled": 449122348,
     "Lazaer-YZY/ds2-sotfs-recomp": 455623979,
@@ -594,9 +598,10 @@
     "ItsNotRexed/Hookshot": 453855112,
     "VoltTMC/SonicColorsRecomp": 456192801,
     "evilHazzarD/ReHoMM4": 456518917,
-    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 456248826,
+    "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 457317072,
     "Anthonyp85/TheSuffering-Recomp": 456248813,
     "KijenP/nier-gestalt-port": 455885126,
-    "ZigZagBoi1/ScarlettPort": 456747598
+    "ZigZagBoi1/ScarlettPort": 456747598,
+    "Kendoismebutmaybenot/wondershot": 457330094
   }
 }
