@@ -189,7 +189,8 @@
     "ThatRecompDev/five-star-recomp",
     "ubiquitarianism/leonida",
     "ProjectLeonidaL/leonida",
-    "IAmNotSiob/leonida-ce"
+    "IAmNotSiob/leonida-ce",
+    "KijenP/nier-gestalt-port"
   ],
   "tracked": [
     "thebardockgames/Precursor",
@@ -412,7 +413,8 @@
     "ThatRecompDev/five-star-recomp",
     "ubiquitarianism/leonida",
     "ProjectLeonidaL/leonida",
-    "IAmNotSiob/leonida-ce"
+    "IAmNotSiob/leonida-ce",
+    "KijenP/nier-gestalt-port"
   ],
   "releases": {
     "Antriksh1984/TheWarriors-XBERecomp": 422819063,
@@ -476,7 +478,7 @@
     "danielalves96/gow-pc-port": 443744396,
     "boodyandmustafa-create/MOH-EuropeanAssault-PC-Port": 453262442,
     "hardsilinder/FableDroid": 431727270,
-    "n64hub/mario-party-recomp": 456350539,
+    "n64hub/mario-party-recomp": 456570228,
     "giacomozama/live-and-recompiled": 453021491,
     "ASarafanov/fracturerecomp": 428409247,
     "TekRantGaming/whopping-recompilation-collection": 430232307,
@@ -485,7 +487,7 @@
     "N900x4/HauntingGround-Recomp-Project": 430244582,
     "almost-drowned-rat/THPS2X-Recompiled": 456381753,
     "n64hub/mario-party-2-recomp": 455859529,
-    "n64hub/mario-party-3-recomp": 455970267,
+    "n64hub/mario-party-3-recomp": 456549086,
     "Mabec-games/Conker-Recomped-and-Reloaded": 446815345,
     "TekRantGaming/muppet-racemania-recompiled": 429267956,
     "Adolini1715/Concrete-Jungle-PC": 449897816,
@@ -523,13 +525,13 @@
     "MattyKen619/Pikmin-PS3-Port": 430991135,
     "Lucas-blip-png/dkb-pc-recomp": 452566447,
     "Goldoire/fefw-recomp": 444749183,
-    "featureJosh/Recompia": 456318599,
+    "featureJosh/Recompia": 456466481,
     "saulob/el-chavo-kart-recompiled": 437274742,
     "kvse/dsr-native": 454331232,
     "kayliox/transformers-armada-recomp": 455806911,
     "LAB0ULANGE/BurnoutLegends-Vita": 445490163,
     "bystritskiy/reUndr2-ps5": 444480391,
-    "Dittobyte/Recompia": 456318599,
+    "Dittobyte/Recompia": 456466481,
     "fasipe/Castlevania-COD-QOL": 448135491,
     "adriadam10/mkw-recomp": 455687980,
     "sebaz07/crashwoc-vita": 436404223,
@@ -564,7 +566,7 @@
     "Lazaer-YZY/ff13-lr-recomp": 456379387,
     "christiansmmc/BatmanBeginsRecomp": 441020872,
     "tyle-beep/Haiku": 456287234,
-    "weile10000/xc2-ns2-recomp": 455816226,
+    "weile10000/xc2-ns2-recomp": 456489813,
     "finalpantasy/new-pokemon-snap-recomp": 453767379,
     "teclilla18/sonic-heroes-recomp": 443557531,
     "GhostDucky13/Speed-Force-Justice-League-Heroes-Windows-Recompilation": 449245257,
@@ -589,8 +591,9 @@
     "R0Y00/Xbox2Windows": 453168296,
     "ItsNotRexed/Hookshot": 453855112,
     "VoltTMC/SonicColorsRecomp": 456192801,
-    "evilHazzarD/ReHoMM4": 456012008,
+    "evilHazzarD/ReHoMM4": 456518917,
     "nacholuver1/Crimson-Skies-High-Road-To-Revenge-Repo": 456248826,
-    "Anthonyp85/TheSuffering-Recomp": 456248813
+    "Anthonyp85/TheSuffering-Recomp": 456248813,
+    "KijenP/nier-gestalt-port": 455885126
   }
 }
